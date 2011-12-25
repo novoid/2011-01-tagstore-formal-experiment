@@ -13,19 +13,29 @@ tags. Those tags are being used to (automatically) generate *navigation
 hierarchies*, called TagTrees.
 
 This repository contains anonymous data from the experiment in order
-to *check, extend, or re-evaluate the experiment*. This is Open Data,
-this is Open Science.
+to *check, extend, or re-evaluate the experiment*.
+
+This is Open Data.
+
+This is [[http://en.wikipedia.org/wiki/Open_research][Open Science]].
 
 * Language
 
-The experiment took place in Graz, Austria. Therefore, the language of
-the test persons was *German*. All data which test persons were
-confronted with is in German. Derived data and other things such as
-evaluation scripts are in *English* though.
+The experiment was conducted by a group of Karl Voit ([[http://www.TUGraz.az][Graz University
+of Technology]]) and took place in [[http://maps.google.com/maps?f%3Dq&source%3Ds_q&hl%3Den&geocode%3D&q%3DInffeldgasse%2B16b,%2Bgraz,%2Baustria&aq%3D&sll%3D47.070714,15.439504&sspn%3D0.143575,0.308647&vpsrc%3D0&ie%3DUTF8&hq%3D&hnear%3DInffeldgasse%2B16b,%2BJakomini%2B8010%2BGraz,%2BSteiermark,%2BAustria&t%3Dh&z%3D16&iwloc%3DA][Graz, Austria]]. Therefore, the
+language of the test persons was *German*. All data which test persons
+were confronted with is in German. Derived data and supplementary
+things such as evaluation scripts are in *English* though.
 
 * White Papers
 
 Several related white papers are linked [[http://tagstore.ist.tugraz.at/en/papers][on the tagstore homepage]].
+
+* License
+
+https://github.com/novoid/2011-01-tagstore-formal-experiment is
+licensed under a [[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative Commons Attribution-NonCommercial-ShareAlike
+3.0 Unported License]].
 
 * What is missing
 
