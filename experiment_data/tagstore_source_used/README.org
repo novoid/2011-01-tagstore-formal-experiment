@@ -1,0 +1,46 @@
+
+The revision 226 of tagstore was used for this experiment.
+
+- configuration used: one tag line, no controlled vocabulary (TP could
+  use any tag they wanted)
+- tagging dialog had several features to make tagging experience as
+  smooth as possible
+  - tag completion (of already used tags)
+  - basic tag recommendations for quickly selecting tags
+- tag recommendations: a mixture of the most recently and the most
+  often used tags
+  - a tag recommender system was added long after the experiment
+- no tag overview or tag cloud
+  - added long after the experiment
+
+- Installing this version
+  - Prerequisites
+    - Python 2.x runtime
+    - PyQt
+    - PyWin
+    - Qt
+
+Unfortunately tagstore Rev 226 also had some annoying bugs:
+
+- tagstore background process was killed when user clicks on the «x»
+  of the window decoration on the upper corner
+  - fixed in later versions
+  - we had to re-start all tests where this happened (two times,
+    pretty much at the beginning of the tests)
+- rarely, tagstore did not show up on the first usage
+  - facilitator had to fix this
+  - time of fixing tagstore is always subtracted from TP time
+- only the first tagstore appearance was most of the time in the
+  background
+  - this happened basically only when showing tagstore for the first
+    time by the facilitator
+- items containing German umlaut characters keep shown as un-tagged
+  - all times where TP tagged an already tagged Umlaut-item were
+    subtracted from the experiment
+
+The Windows XP system used in the test had also some annoying bugs:
+
+- Adobe Acrobat Reader freezes until the mouse was moved outside the
+  Acrobat Reader Window
+  - TP learned how to handle this bug while exploring the items before
+    the important tasks.

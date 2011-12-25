@@ -1,0 +1,33 @@
+
+We were using batch files to set up, preserve state, and reset states
+of TP folder hierarchies and tagstores.
+
+We were using locally mapped drive letters for the three purposes of:
+- (raw) test items
+  - pre-filled with the test items
+- folder structure drive
+  - empty for any new TP
+- tagstore drive
+  - containing the basic folders for storing and re-finding files
+    using [[http://tagstore.org][tagstore]]
+  - no files in storage folder, no previously tags
+
+- tp_00_init_all.bat
+  - initialize everything, re-setting test items, folder drive, and
+    tagstore drive, re-starting a fresh instance of tagstore
+  - used before a new TP entered the room
+- tp_01_pause.bat
+  - asks for a TP number
+  - kills any python task (tagstore)
+  - saves TP data to a special location
+  - used after a TP finished the first part, starting into pause,
+    saving TP data state
+- tp_02_restore.bat
+  - re-establishes TP data state
+  - used before a TP started the second part of the experiment
+
+The scripts worked only for our set up during the experiment. You have
+to adopt at least the paths by yourself!
+
+Those scripts were *very* handy during the experiment. You definitely
+have to use a comparable automatism too!

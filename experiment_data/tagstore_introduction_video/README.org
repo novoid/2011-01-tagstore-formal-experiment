@@ -1,0 +1,6 @@
+
+The [[http://tagstore.org][tagstore]] software was explained using a short screencast
+video. This video shows the basic idea and functionality of tagstore.
+
+The (German) video can be watched on [[http://tagstore.ist.tugraz.at/de/about][the tagstore web page]] or [[http://www.youtube.com/watch?feature%3Dplayer_embedded&v%3DjxNYwmC3PSs][directly
+on YouTube]].

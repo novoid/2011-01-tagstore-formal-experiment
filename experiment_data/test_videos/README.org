@@ -1,0 +1,15 @@
+
+During the experiment, a video camera recorded the room, following he
+TP as they were moving from welcome table to test computer and
+back. During the tasks, a screencast was recorded showing the test
+persons face (built-in webcam), the screen content of the test
+computer, and the (built-in) audio.
+
+Video camera recording was started before TP entered the room, was
+paused when screencast recording started, re-started after the last
+tasks with «how was it», and stopped after TP left the experiment
+room. No TP was in the experiment room without being recorded.
+
+Unfortunately we do not have the permission (and storage capacity) to
+publish the videos and screencasts. If you need something from the
+videos, please write at Karl.Voit@IST.TUGraz.at
