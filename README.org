@@ -34,8 +34,7 @@ Several related white papers are linked [[http://tagstore.ist.tugraz.at/en/paper
 * License
 
 https://github.com/novoid/2011-01-tagstore-formal-experiment is
-licensed under a [[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative Commons Attribution-NonCommercial-ShareAlike
-3.0 Unported License]].
+licensed under a [[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]].
 
 * What is missing
 
