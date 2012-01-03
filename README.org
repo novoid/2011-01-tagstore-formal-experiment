@@ -2,7 +2,8 @@
 
 In January 2011, a formal experiment was conducted which aimed to
 clear some questions in the field of personal information management
-(PIM), information re-finding, and information architecture.
+(PIM), information re-finding, and information architecture. This
+repository holds relevant data to verify or extend this experiment.
 
 For this purpose, the testing framework [[http://tagstore.org][tagstore]] was used to *compare*
 storing files (images, graphics and documents) within the 
@@ -18,6 +19,14 @@ to *check, extend, or re-evaluate the experiment*.
 This is Open Data.
 
 This is [[http://en.wikipedia.org/wiki/Open_research][Open Science]].
+
+* Other Experiment Repositories
+
+In April 2011, we basically repeated the January-experiment. The April
+experiment has less technical logs, a two week pause between filing
+and re-finding, more test persons, more test items, more detailed
+questionnaires:
+https://github.com/novoid/2011-04-tagstore-formal-experiment
 
 * Language
 
@@ -38,7 +47,7 @@ licensed under a [[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative C
 
 * What is missing
 
-For now, each relevant experiment data is online. If something is not
+For now, all relevant experiment data is online. If something is not
 online (like for example the TP videos), a README.org explains further
 things or links to an alternative hosting place.
 
