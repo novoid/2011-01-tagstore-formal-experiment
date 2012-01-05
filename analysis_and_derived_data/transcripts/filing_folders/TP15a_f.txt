@@ -23,7 +23,7 @@
 23:58 m
 24:00 ct "Kann ich grundsätzlich schon noch mal aufrufen die Bilder, oder?"
 24:04 ce
-24:03 ib
+24:04 ib
 24:05 ie
 24:08 o
 24:17 mkf "Netzpläne"

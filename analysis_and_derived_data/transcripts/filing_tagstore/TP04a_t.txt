@@ -43,7 +43,7 @@
 24:36 eot
 24:39 m
 24:45 ct "Da hätte ich gleich die Dateien löschen können statt kopieren"
-24:40 ce
+24:50 ce
 25:04 t
 25:09 m2t 6
 # ab hier ein Umlautitem dabei
@@ -70,8 +70,8 @@
 ## 26:18 ce
 ## # TP taggt die Datei erneut: wird als "ct" markiert, damit es Ergebnis nicht verfälscht
 ## 26:18 ct "erneutes Taggen"
-## 25:21 ce
-25:21 ce
+## 26:21 ce
+26:21 ce
 26:28 ta 1
 26:29 ta 1
 26:29 eot

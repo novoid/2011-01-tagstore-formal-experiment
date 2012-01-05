@@ -2,7 +2,7 @@
 
 0:39 tf 4 5.1 2
 0:54 tf 5 3.6 2
-3:09 tc 6 2:05 "TP could not find item - probably due to technical bug from filing"
+3:09 tc 6 62.5 "TP could not find item - probably due to technical bug from filing"
 3:24 tf 7 5.0 2
 3:42 tf 8 9.1 2
 3:57 tf 9 3.7 2

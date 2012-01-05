@@ -63,7 +63,7 @@
 29:25 ff 1 Studium
 29:32 mkf Sport
 29:39 ff 1 Sturm
-29:30 ff 1 Sport
+29:40 ff 1 Sport
 29:47 ib
 29:49 ie
 29:57 mkf Sonstiges

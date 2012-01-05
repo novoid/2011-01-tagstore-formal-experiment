@@ -74,7 +74,7 @@
 31:23 mkf Skifahren_Schweiz
 31:25 ff 1 Skifahren_Schweiz
 31:34 mkf Ausflug_Graz
-31:27 ff 2 Ausflug_Graz
+31:37 ff 2 Ausflug_Graz
 31:45 mkf Ausflug_Alpensee
 31:47 ff 1 Ausflug_Alpensee
 31:56 eotf
