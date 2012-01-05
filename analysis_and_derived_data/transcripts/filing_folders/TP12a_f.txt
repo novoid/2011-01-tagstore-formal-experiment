@@ -1,0 +1,67 @@
+25:55 sotf
+26:23 o
+26:29 mkf "Universität"
+26:33 m2f 4 "Universität"
+26:43 mkf Mathematik
+26:45 ff 1 Mathematik
+26:54 mkf Psychoanalyse
+26:57 ff 1 Psychoanalyse
+27:01 ib
+27:14 ie
+27:16 ib
+27:23 ie
+27:30 mkf Unbenannt
+27:30 ct "Kommentar zu sich selbst: Das ist jetzt schwierig?. einem Fach zuzuordnen."
+27:36 ce
+27:47 delf Unbenannt
+27:55 m
+28:10 o
+28:14 mkf Gutscheine
+28:16 m2f 2 Gutscheine
+28:18 m
+28:38 o
+28:42 mkf Sport
+28:45 m2f 2 Sport
+28:49 mkf Schifahren
+28:53 mkf Radfahren
+28:55 ff 1 Radfahren
+28:56 ff 1 Schifahren
+28:58 m
+29:04 o
+29:08 mkf Vorlagen
+#29:14 Änderung des Ordners in "Vorlagen - Dokumente"
+29:14 renf Vorlagen "Vorlagen - Dokumente"
+29:16 m2f 2 "Vorlagen - Dokumente"
+29:24 ib
+29:35 ie
+29:42 m
+29:45 ct "Unverständliches Kommentar"
+29:47 ce
+30:32 o
+30:36 mkf Bilder
+30:40 m2f 8 Bilder
+30:51 mkf Urlaub
+31:01 ff 8 Urlaub
+31:07 mkf "Österreich"
+31:17 ff 5 "Österreich"
+31:24 mkf Schweiz
+31:30 ff 1 Schweiz
+31:37 mkf Segeln
+31:40 ff 2 Segeln
+31:47 m
+32:09 o
+32:14 m2f 9 Bilder
+32:20 mkf Bauanleitungen
+32:29 ff 4 Bauanleitungen
+32:43 mkf "Plan - öffentliche Verkehrsmittel"
+32:49 ff 4 "Plan - öffentliche Verkehrsmittel"
+32:56 m
+33:00 o
+33:08 ff 1 Urlaub
+33:12 ff 1 Urlaub
+33:15 m2f 3 Bilder
+33:31 ff 1 "Universität"
+34:03 mkf Sturm
+34:07 ff 2 Sturm
+34:09 eotf
+

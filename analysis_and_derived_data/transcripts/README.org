@@ -1,0 +1,59 @@
+* Dismissed Test Persons
+
+In the folder «dismissed_TP» you can find transcripts of the dismissed
+TP number six: the TP was talking all the time so comment time and
+working time could not be separated.
+
+* Transcripts: File Name Convention
+
+TP02a_t.txt means:
+
+- test person (TP) number two
+- a ... first session (filing)
+- t ... tagstore tasks
+
+TP07b_f.txt means:
+
+- test person (TP) number seven
+- b ... second session (re-finding)
+- f ... folder tasks
+
+* Transcript Notes Definitions
+
+see file «legend.txt»
+
+* Generation of CSV Summary Files
+
+First, invoke «generate_modified_versions.sh» which takes all
+«TP*a_t.txt» files and removes all notations for «m», «o», and «t»
+(drive changing information) which is currently not part of the
+corresponding parser script «LogAnalyzerTagstore.py».
+
+Then generate the CSV summaries using the parsers:
+#+begin_verse
+LogAnalyzerTagstore.py *a_t_modified.txt
+LogAnalyzerFolder.py *a_f.txt
+LogAnalyzerRefinding.py *b_*.txt
+#+end_verse
+
+Notice that for the re-find tasks there is only one parser since the
+transcript syntax for re-finding is the same for tagstore tasks as
+well as folder tasks.
+
+Now you've got one CSV file per TP for:
+- filing_tagstore
+- filing_folders
+- refinding_tagstore
+- refinding_folders
+
+For each of those meta-tasks, you can merge the CSV files for example
+like:
+#+begin_verse
+cat *a_t.csv >filing_tagstore.csv
+#+end_verse
+... and removing extra header lines in an editor.
+
+Please do not forget that TP numbers are not included in the CSV
+files. So please check for missing TPs or for TPs that have been left
+out on purpose.
+

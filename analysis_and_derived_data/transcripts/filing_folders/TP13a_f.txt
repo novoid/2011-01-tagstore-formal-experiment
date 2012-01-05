@@ -1,0 +1,72 @@
+26:08 sotf
+26:55 o
+26:58 mkf Uni
+27:00 m2f 6 Uni
+27:23 mkf Gutscheine
+27:29 mkf Sport
+27:31 m
+27:40 o
+27:45 mkf Ergebnislisten
+27:46 m2f 2 Ergebnislisten
+27:47 m
+28:13 o
+28:15 m2f 7 Sport
+28:20 m
+28:30 o
+28:35 mkf "Baupläne"
+28:36 m2f 4 "Baupläne"
+28:37 m
+28:48 ib
+28:50 ie
+28:52 ib
+28:54 ie
+29:21 o
+29:47 mkf "Stadtpläne"
+29:48 m2f 6 "Stadtpläne"
+29:50 m
+29:58 o
+30:01 m2f 2 Gutscheine
+30:01 m
+30:09 o
+30:10 m2o 3
+30:31 ff 2 "Stadtpläne"
+30:38 renf "Stadtpläne" "Städte"
+30:43 mkf Graz
+30:50 ff 3 Graz
+30:56 mkf Wien
+31:09 mkf Other
+31:18 ff 2 Other
+31:21 ff 2 Wien
+31:41 mkf Div
+31:41 ff 1 Div
+31:45 m
+31:46 o
+32:07 renf Div Stuff
+## following line did not happen but reflects the intent of the TP
+32:20 mvf 2 Stuff
+32:21 cf "Windows-Bug"
+#32:20 Versuch, die Ordner Gutscheine und "Baupläne" in Stuff zu verschieben
+#32:21 Fehlermeldung (Gutscheine)
+#32:21 mvf 1 "Baupläne Stuff"
+#32:32 erneuter Versuch, den Order Gutscheine in Stuf zu verschieben
+#32:33 Fehlermeldung
+#32:48 mkf Gutscheine
+#32:48 ff 2 Gutscheine
+#32:53 Versuch, Ordner Gutscheine zu löschen
+#32:54 Fehlermeldung
+33:10 ce
+33:18 mkf "Städte"
+#33:19 mvf 3 "Graz Other Wien Städte" plus ff 1 Städte (Gleichzeitiges Verschieben von Ordnern und einer Datei )
+33:19 mvf 3 "Graz Other Wien Städte"
+33:19 ff 1 "Städte"
+33:22 delf "Städte"
+## following line did not happen but reflects the intent of the TP
+33:28 cf "Windows-Bug"
+#32:28 Fehlermeldung beim Löschversuch des Ordners Gutscheine
+## following line did not happen but reflects the intent of the TP
+33:29 ce
+33:35 ct "(Unverständlich)"
+33:44 ce
+33:44 eotf
+
+

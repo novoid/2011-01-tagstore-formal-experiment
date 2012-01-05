@@ -1,0 +1,35 @@
+18:28 sotf
+18:35 m2o 30
+18:36 o
+18:50 mkf Bilder
+19:05 ff 20 Bilder
+19:10 mkf Dokumente
+19:15 ff 10 Dokumente
+19:31 mkf Bauanleitungen
+19:50 ff 4 Bauanleitungen
+19:58 mkf Logos
+20:04 ff 1 Logos
+#20:15 Umschalten der Ansicht auf Miniaturbilder
+20:24 mkf "Netzpläne"
+20:28 ff 2 "Netzpläne"
+20:52 mkf Sport
+21:02 ff 5 Sport
+21:13 ff 1 "Netzpläne"
+21:25 mkf Landkarten
+21:27 ff 2 Landkarten
+21:47 mkf "Sehenswürdigkeiten"
+21:51 ff 2 "Sehenswürdigkeiten"
+22:08 mvf 1 "O:\" 
+22:40 renf "Netzpläne" "Öffentlicher Verkehr"
+22:42 ff 1 "Öffentlicher Verkehr"
+23:17 mkf Sport
+23:26 ff 2 Sport
+23:25 mkf Skripten
+23:47 ff 2 Skripten
+23:52 mkf "Präsentationen"
+24:01 ff 1 "Präsentationen"
+24:09 mkf Gutscheine
+24:17 ff 2 Gutscheine
+25:02 eotf
+
+

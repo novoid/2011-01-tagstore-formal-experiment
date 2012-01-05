@@ -1,0 +1,99 @@
+12:00 sott
+12:29 m2t 2
+# ein Item erscheint nicht im tsdialog
+12:30 fb "Da ist jetzt leider ein Fehler passiert ..."
+# Korrektur: 2 Items rausschieben und wieder reinschieben
+13:15 fe
+13:31 ta 3
+13:38 tc
+13:46 ta 3
+13:46 eot
+14:19 m2t 4
+# hier ein Umlautitem das erste Mal dabei (Börse)
+14:37 ta 2
+14:40 tc
+14:48 ta 3
+14:52 tc
+15:04 ta 4
+15:08 tc
+15:15 ta 2
+15:15 eot
+15:31 m2t 2
+# ein Umlautitem zuviel
+15:56 ta 3
+16:01 tc
+16:04 ct "Aus irgendeinem Grund hat er diese Datei wieder mitkopiert"
+16:11 ce
+16:16 ta 3
+16:16 cf "Umlautitemtagging"
+# TP klickt auf Postpone/Später :-)
+16:18 ce
+16:18 eot
+16:27 m2t 2
+# ein Umlautitem zuviel
+16:27 ct "Und schon wieder da"
+16:31 ce
+16:39 ta 2
+16:44 ta 2
+16:44 cf "Umlautitemtagging"
+16:46 ce
+16:46 eot
+17:38 m2t 6
+# ein Umlautitem
+17:46 ta 3
+17:56 ta 3
+18:07 ta 3
+18:12 tc
+18:16 ta 3
+18:24 ta 3
+18:30 td
+18:34 ta 2
+18:34 cf "Umlautitemtagging"
+18:36 ce
+18:36 eot
+18:49 ib
+18:53 ie
+19:26 m2t 6
+# ein Umlautitem zuviel
+19:48 ta 3
+19:54 td
+19:59 ta 3
+20:03 td
+20:13 ta 4
+20:29 ta 3
+20:34 td
+20:39 tc
+20:52 ta 5
+20:56 td
+21:01 tc
+21:11 ta 4
+21:11 cf "Umlautitemtagging"
+21:14 ce
+21:14 eot
+21:34 m2t 4
+# 2 Umlautitems zuviel
+21:51 ta 3
+21:58 td
+22:06 ta 3
+22:10 td
+22:15 ta 3
+22:20 td
+22:25 ta 3
+22:25 cf "Umlautitemtagging"
+22:26 ce
+22:26 eot
+22:33 ib
+22:35 ie
+22:45 m2t 4
+# 2 Umlautitems zuviel
+23:22 ta 3
+23:34 ta 2
+23:38 tc
+23:42 ta 2
+23:59 ct "Gibt es eine Möglichkeit, dass ich alle übersichtlich sehe?"
+24:07 ce
+24:35 ta 3
+24:35 cf "Umlautitemtagging"
+24:38 ce
+24:38 eot
+24:38 eott

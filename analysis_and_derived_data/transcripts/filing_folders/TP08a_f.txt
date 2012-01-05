@@ -1,0 +1,157 @@
+8:18 sotf
+8:22 o
+8:23 m
+8:30 o
+8:36 mkf Bilder
+8:43 mkf Sport
+8:46 m
+#8:54 m2f 1 Sport (kein explizites Wechseln auf o sondern Aufklappen der Hierarchie)
+8:54 o
+8:54 m2f 1 Sport
+8:54 m
+9:12 ib
+9:14 ie
+9:18 m2f 1 Sport
+9:32 ib
+9:34 ie
+9:36 ib
+9:39 ie
+9:42 m2f 1 Sport
+9:47 m2f 1 Sport
+#9:53 Wechseln auf Ansicht "Large Icons"
+10:12 mkf "Sehenswürdigkeiten"
+10:19 mkf "Österreich"
+10:24 mkf Graz
+10:29 m
+10:35 m2f 1 Graz
+10:47 m2f 1 Sport
+10:53 m2f 1 Sport
+10:57 m2f 1 "Österreich"
+11:03 mkf Wien
+11:06 ff 1 Wien
+11:09 o
+11:10 m
+11:29 mkf Segeln
+11:35 ff 2 Segeln
+11:48 mkf "Fußball"
+11:54 ff 2 "Fußball"
+12:09 mkf "Ski-Fahren"
+12:13 ff 1 "Ski-Fahren"
+12:21 mkf Laufsport
+12:22 ff 1 Laufsport
+12:25 m
+12:37 o
+12:39 m
+12:43 m2f 1 Wien
+12:53 m2f 1 Graz
+13:06 o
+## following two entries for "cf" masks Windows bug for this log:
+13:28 cf "Windows-bug: renaming of folder fails."
+#13:28 Umbenennung des Ordners "Sehenswürdigkeiten" in "Ausflüge"
+#13:30 Fehlermeldung bei Umbenennung
+#13:44 Umbenennung des Ordners "Sehenswürdigkeiten" in "Ausflüge"
+#13:46 Fehlermeldung bei Umbenennung
+#13:50 ct "Kann da irgendwas offen sein? ? Kann man aber schon dürfen (Umbenennen) normalerweise."
+#14:00 cf "Das ist jetzt ein Windows-Problem."
+#14:08 Umbenennung des Ordners "Sehenswürdigkeiten" in "Ausflüge"
+#14:09 Fehlermeldung bei Umbenennung
+#14:15 cf "Du kannst aber einen neuen Ordner erstellen und den anderen reingeben."
+14:19 ce
+14:21 mkf Ausflüge
+14:22 cf "Windows-bug: renaming of folder fails."
+#14:30 Versuch, Ordner Österreich auszuschneiden und in Ordner Ausflüge einzufügen
+#14:32 Fehlermeldung
+#14:43 Kopieren von Ordner Österreich in Ordner Ausflüge
+#14:50 Versuch, Ordner Sehenswürdigkeiten zu löschen
+#14:52 Fehlermeldung bei Löschversuch
+#15:02 Versuch, Ordner Graz zu löschen
+#15:04 Fehlermeldung bei Löschversuch
+#15:13 ct "Sollte ich noch weiter versuchen den Ordner löschen zu können?
+#15:14 cf "Nein."
+15:17 ce
+## the following line did not happen but reflects the intent of the TP:
+15:19 renf "Sehenswürdigkeiten" "Ausflüge"
+15:20 m
+15:36 m2f 1 Graz
+15:44 o
+15:52 m
+16:13 o
+16:22 mkf Studium
+16:28 mkf BWL
+16:30 m
+16:53 o
+16:58 m2f 4 BWL
+17:01 ib 
+17:12 ie
+17:24 mkf Wissenswertes
+17:34 mkf Psychologie
+17:48 ff 1 Psychologie
+17:58 mkf Mathematik
+18:00 ff 1 Mathematik
+18:13 mkf Buchhaltung
+18:16 ff 1 Buchhaltung
+18:21 mkf Bilder
+18:23 ff 1 Bilder
+18:32 m
+18:48 mkf Allgemeines
+18:51 m
+18:58 m2f 1 Allgemeines
+19:25 m2f 1 BWL
+19:30 o
+19:33 ib
+19:40 ie
+19:52 mkf Insolvenz
+19:54 ff 1 Insolvenz
+19:56 m
+20:12 o
+20:17 mkf Privates
+20:26 mkf Bauanleitungen
+20:31m
+20:39 m2f 4 Bauanleitungen
+20:49 o
+20:55 mkf Gutscheine
+20:57 m2f 2 Gutscheine
+20:59 m
+21:15 o
+21:18 m2f 1 BWL
+21:20 ff 1 Wissenswertes
+21:22 m
+21:41 o
+22:07 mkf Sport
+22:09 m2f 2 Sport
+22:22 renf "Sport" "Sportveranstaltungen"
+## the following line did not happen but reflects the intent of the TP:
+22:23 cf "Windows-bug while renaming folder"
+#22:24 Fehlermeldung bei Umbenennung
+#22:37 mkf Sportveranstaltungen
+#22:43 ff 2 Sportveranstaltungen
+#22:53 Versuch, Ordner "Sport" in "_Sport" umzubenennen
+#22:54 Fehlermeldung bei Umbenennung
+## the following line did not happen but reflects the intent of the TP:
+23:00 ce
+23:01 m
+23:11 o 
+23:19 mkf Frankreich
+23:22 m
+23:32 mkf Paris
+23:34 m
+23:40 m2f 1 Paris
+23:52 m2f 1 "Österreich"
+23:57 o
+23:59 m
+24:09 o
+24:16 mkf Italien
+24:21 mkf Rom
+24:24 m
+24:30 m2f 1 Rom
+24:32 o
+24:36 ib
+24:40 ie
+24:43 ff 1 "Österreich"
+25:00 ff 1 Graz
+25:16 eotf
+
+
+#Aufklappen der Ordnerhierarchie wurde nicht mitnotiert
+
+

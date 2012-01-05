@@ -1,0 +1,48 @@
+7:20 sotf
+7:27 o
+7:29 m2o 30
+8:03 mkf Geschichte
+8:15 renf "Geschichte" "Geschichte Geographie"
+8:19 ff 1 "Geschichte Geographie"
+8:39 mkf Reise
+8:50 ff 1 Reise
+8:57 ff 2 Reise
+9:01 ff 1 Reise
+9:12 mkf Sport
+9:25 ff 2 Sport
+9:32 ff 1 Reise
+9:57 ff 1 "Geschichte Geographie"
+9:59 ff 1 "Geschichte Geographie"
+10:29 mkf Basteln
+10:33 ff 1 Basteln
+10:37 ff 1 Basteln
+10:41 ff 1 Basteln
+10:46 ff 1 Basteln
+10:54 mkf Bildung
+10:58 ff 1 Bildung
+11:02 ff 1 Bildung
+11:07 ff 1 Basteln
+11:12 ff 1 Bildung
+11:17 ff 1 "Geschichte Geographie"
+11:23 ff 1 "Geschichte Geographie"
+11:33 mvf 1 "Geschichte Geographie"
+11:43 ff 1 "Geschichte Geographie"
+11:46 ff 1 Bildung
+11:51 ff 1 Bildung
+11:55 ff 1 Sport
+11:58 ff 1 Sport
+12:01 ff 1 Sport
+12:05 ff 1 "Geschichte Geographie"
+12:22 mkf Finanzen
+12:26 ff 3 Finanzen
+#12:46 ff 1 Finanzen (Datei von Ordner "Basteln" nach Ordner "Finanzen" verschoben
+12:46 ff 1 Finanzen
+13:16 ff 1 Reise
+13:19 ff 1 Reise
+13:24 ff 1 Reise
+13:29 ff 1 Reise
+13:32 eotf
+
+
+
+

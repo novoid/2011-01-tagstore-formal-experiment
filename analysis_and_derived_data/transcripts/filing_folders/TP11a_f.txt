@@ -1,0 +1,89 @@
+20:47 sotf
+#20:52 Öffnen eines zweiten Explorerfensters zur Parallelansicht
+20:55 o
+21:02 mkf Bauplan
+21:08 m
+21:12 o
+21:12 m2f 1 Bauplan
+21:14 m
+21:18 o
+21:18 m2f 1 Bauplan
+21:19 m
+21:21 o
+21:21 m2f 1 Bauplan
+21:23 m
+21:29 o
+21:33 mkf Skripten
+21:35 m
+21:52 o
+21:52 m2f 1 Skripte
+21:53 m
+22:01 o
+22:01 m2f 1 Skripte
+22:12 mkf Gutscheine
+22:23 m
+22:26 o
+22:26 m2f 2 Gutscheine
+22:43 mkf Ergebnislisten
+22:45 m
+22:48 o
+22:48 m2f 2 Ergebnislisten
+22:59 mkf Bestellungen
+23:01 m
+23:02 o
+23:03 m2f 1 Bestellungen
+23:25 mkf Presentations
+23:26 m
+23:28 o
+23:28 m2f 1 Presentations
+23:30 m
+23:31 o
+23:31 m2f 1 Presentations
+23:48 mkf Sportbilder
+23:52 m
+23:57 o
+23:57 m2f 5 Sportbilder
+24:10 mkf "Netzpläne"
+24:11 m
+24:14 o
+24:14 m2f 2 "Netzpläne"
+24:16 m
+24:18 o
+24:18 m2f 1 "Netzpläne"
+24:31 mkf Ausflugsbilder
+24:33 m
+24:38 o
+24:38 m2f 3 Ausflugsbilder
+24:40 m
+24:42 o
+24:42 m2f 2 Ausflugsbilder
+25:04 mkf Wien
+25:08 m
+25:11 o
+25:11 m2f 1 Wien
+25:25 mkf Diverse
+25:27 m
+25:32 o
+25:32 m2f 1 Diverse
+25:34 m
+25:36 o
+25:36 m2f 1 Diverse
+25:38 m
+25:40 o
+25:54 renf "Wien" "Wienbilder"
+#26:05 renf Diverse 
+#26:08 Fehlermeldung bei Umbenennen des Ordners
+#26:15 renf Diverse
+#26:17 Fehlermeldung beim Umbenennen des Ordners
+## following two lines did not happen but mask the Windows Explorer
+## problem:
+26:05 cf "Windows Explorer bug"
+26:17 ce
+26:40 m
+26:41 o
+26:41 m2f 1 Bauplan
+26:51 m
+26:52 o
+26:53 m2f 1 Diverse
+26:56 m
+27:04 eotf

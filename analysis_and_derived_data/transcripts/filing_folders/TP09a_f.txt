@@ -1,0 +1,146 @@
+5:15 sotf
+5:33 o
+5:35 m
+5:41 o
+5:48 mkf Bilder
+5:58 mkf Urlaub
+6:00 m
+6:28 o
+6:32 m2f 5 Urlaub
+6:43 mkf Dokumente
+6:45 m
+6:49 ib
+6:53 ie
+6:55 ib
+6:57 ie
+6:58 ib
+7:00 ie
+7:04 ib
+7:14 ie
+7:26 o
+7:35 mkf Gutscheine
+7:36 m
+7:47 o
+7:49 m2f 2 Gutscheine
+7:50 m
+7:56 o
+8:02 mkf Zeichnungen
+8:08 mkf sonstiges
+8:10 m
+8:16 ib
+8:18 ie
+8:19 ib
+8:20 ie
+8:22 o
+8:31 mkf "öffentl Verkehr"
+8:33 m
+8:48 o
+8:51 m2f 4 "öffentl Verkehr"
+8:54 m
+8:56 ib
+8:58 ie
+9:00 ib
+9:02 ie
+9:04 ib
+9:06 ie
+9:12 o
+9:15 m2f 3 Zeichnungen
+9:16 m
+9:20 ib
+9:22 ie
+9:25 o
+9:34 mkf Familie
+9:35 m
+9:43 o
+9:50 m2f 1 Familie
+9:53 m
+9:55 o
+9:56 m
+10:06 ib
+10:09 ie
+10:11 ib
+10:12 ie
+10:17 o
+10:24 mkf unwichtig
+10:26 m2f 1 unwichtig
+10:28 m
+10:34 o
+10:38 mkf Uni
+10:39 m
+10:48 o
+10:54 m2f 3 Uni
+10:55 ib
+10:56 ie
+10:57 ib
+10:59 ie
+11:00 ib
+11:01 ie
+11:05 m
+11:12 o
+11:20 mkf "Sport und Freizeit"
+11:21 m
+11:34 o
+11:40 m
+11:46 o
+11:49 m2f 2 "Sport und Freizeit"
+11:50 m
+11:57 o
+12:03 m2f 1 "öffentl Verkehr"
+## following line did not happen but reflects TP intent:
+12:27 cf "Windows-bug while renaming folder"
+#12:27 Umbenennung des Ordners "unwichtig" in "unwichtiges"
+#12:31 Versuch, Ordner "Gutscheine" in "sonstiges" zu ziehen
+#12:32 Fehlermeldung
+#12:45 Versuch, Ordner "Gutscheine" in "sonstiges" zu ziehen
+#12:46 Fehlermeldung
+#12:50 ct "Wieso kann ich den Ordner nicht in den anderen verschieben? Ah, ich muss ihn ausschneiden
+#12:52 Versuch, Ordner auszuschneiden
+#12:57 Fehlermeldung
+#12:58 cl "? (unverständlich)"
+#13:00 ct "Ok, dann muss ich es so lassen."
+#13:02 m
+13:04 ce
+13:13 o
+13:17 m2f 1 Dokumente
+13:19 m
+13:20 ib
+13:22 ie
+13:23 ib
+13:25 ie
+13:26 ib
+13:28 ie
+13:31 o
+13:37 m2f 1 Bilder
+13:38 m
+13:41 ib
+13:43 ie
+13:46 o
+13:50 m2f 1 unwichtiges
+13:51 m
+14:05 o
+14:13 m2f 1 Bilder
+14:14 ff 1 Bilder
+14:20 m
+14:21 o
+14:25 ff 1 Uni
+14:26 m
+14:28 ib
+14:30 ie
+14:31 ib
+14:32 ie
+14:32 ib
+14:33 ie
+14:36 o
+14:39 m2f 1 Bilder
+14:40 m
+14:44 o
+14:47 m2f 1 unwichtiges
+14:48 m
+14:52 o
+14:55 m2f 1 Uni
+14:56 m
+14:59 o
+15:06 m2f 1 sonstiges
+15:07 m
+15:08 o
+15:09 eotf

@@ -1,0 +1,47 @@
+12:03 sott
+12:04 ct "Das heisst ich kann jetzt theoretisch auch so?"
+12:09 ce
+12:10 t
+12:14 m2t 30
+12:14 cf "(Import dauert, Interface blockiert, tsdialog im Hintergrund muss geholt werden)"
+12:23 ce
+12:42 ta 3
+12:52 ta 3
+13:05 ta 3
+13:27 ta 4
+13:49 ta 4
+14:01 ta 2
+14:02 ct "Kann man fragen, um was es sich [bei den tag recommendations] handelt?"
+14:13 ce
+14:13 tp
+# ERROR: tp funktionieren nicht :-(
+14:14 cf "Das ist jetzt leider ein Fehler."
+14:20 ce
+14:43 ta 4
+14:58 ta 1
+15:05 ta 2
+15:11 ta 3
+15:26 ta 3
+15:34 ta 2
+15:47 ta 2
+15:59 ta 3
+16:10 ta 3
+16:30 ta 3
+16:37 ta 2
+16:54 ta 3
+17:08 ta 4
+17:21 ta 4
+17:35 ta 3
+17:42 ta 3
+17:58 ta 3
+18:10 ta 3
+18:20 ta 4
+18:33 ta 3
+18:53 ta 3
+19:04 ta 3
+19:12 ta 2
+19:12 eot
+19:12 eott
+
+
+

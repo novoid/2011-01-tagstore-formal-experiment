@@ -1,0 +1,94 @@
+
+# 28:02 sott
+# 28:05 t
+# 28:10 m2t 30
+# 28:22 ib
+# 28:25 ie
+# 28:52 ta 3
+# 29:15 ta 2
+# 29:37 ta 2
+# 29:47 td
+# 30:00 ta 2
+# 30:07 td
+# 30:15 ta 2
+# 30:28 td
+# 30:34 ta 2
+# 30:59 ta 3
+# 31:02 td
+# 31:08 ta 3
+# 31:22 ta 3
+# 31:32 td
+# 31:38 ta 3
+# 31:41 td
+# 31:47 ta 3
+# 31:56 td
+# 32:02 cl "TP hat tsdialog vor dem 12. item leider mit rotem X geschlossen"
+# 32:02 fb
+# 34:05 cl "Es wird beschlossen, die Tagging-Aufgabe erneut zu beginnen"
+# 35:24 cl "F stellt Situation wieder her: 30 Dateien nach Ablage kopiert und tsdialog sichtbar"
+# 35:24 cl "Hier in den Logs behandle ich den Fall so: von 35:38 ta 2 wird fiktiv sott, t, m2t, ib, ie zurückgerechnet"
+# 35:24 cl "das sollte mir das Streichen von TP03a ersparen und wissenschaftlich vertretbar sein"
+# 35:24 fe
+34:48 sott
+34:51 t
+34:56 m2t 30
+35:08 ib
+35:11 ie
+35:38 ta 2
+35:43 td
+35:50 ta 2
+35:54 td
+36:01 ta 2
+36:08 td
+36:11 ta 2
+36:38 ta 3
+36:47 td
+36:52 ta 3
+37:07 td
+37:17 ta 3
+37:24 td
+37:27 ta 3
+37:32 td
+37:36 ta 3
+37:39 td
+37:47 ta 3
+38:03 td
+38:09 ta 3
+38:14 td
+38:24 ta 3
+38:32 td
+38:40 ta 3
+38:54 ib
+39:07 ie
+39:19 ta 3
+39:21 td
+39:26 ta 2
+39:34 tc
+39:55 ta 2
+40:01 tc
+40:02 ta 2
+40:09 ta 2
+40:11 td
+40:15 ta 2
+40:33 ta 2
+40:47 ta 3
+40:50 td
+41:00 ta 3
+41:14 ib
+41:20 ie
+41:24 tc
+41:28 ta 2
+41:57 ta 2
+42:07 ta 2
+42:38 ta 3
+42:41 ct "Kann es sein, dass hier eine Datei abgeht? Skriptum Psychoanalyse ..."
+42:54 ce
+43:04 ta 2
+43:34 ta 3
+43:43 ta 2
+43:54 ta 2
+43:54 eot
+43:58 ct "Mit kommt vor, da fehlt eine Datei ..."
+44:07 ce
+44:07 eott
+

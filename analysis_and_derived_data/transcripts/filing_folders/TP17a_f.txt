@@ -1,0 +1,48 @@
+39:40 sotf
+39:48 o
+39:50 m2o 30
+40:03 mkf Graz
+40:10 mkf Wien
+40:18 mkf Bauanleitungen
+40:28 mkf Sport
+40:41 ff 2 Sport
+40:59 mkf Lehre
+41:08 ff 2 Lehre
+41:14 ff 2 Graz
+41:21 ff 2 Sport
+41:25 ff 1 Sport
+41:28 ff 1 Sport
+41:36 ff 1 Wien
+41:39 ff 1 Sport
+41:42 ff 1 Bauanleitungen
+41:49 ff 1 Graz
+41:57 ff 1 Wien
+42:09 ff 2 Sport
+42:19 mkf Gutscheine
+42:24 ff 2 Gutscheine
+42:31 ff 1 Lehre
+42:50 ff 1 Bauanleitungen
+42:58 ff 1 Lehre
+43:06 ff 1 Bauanleitungen
+43:07 ib
+43:08 ie
+43:12 ff 1 Bauanleitungen
+43:29 ff 1 Lehre
+43:48 mkf "Städte"
+43:51 mvf 1 "Städte"
+43:53 mvf 1 "Städte"
+44:01 mkf Paris
+44:14 renf "Städte" "Land&Städte"
+44:18 ff 3 "Land&Städte"
+44:32 mkf Rechnungen
+44:34 ib
+44:38 ie
+44:53 renf "Rechnungen" "Formulare_Rechnungen"
+44:56 ff 2 "Formulare_Rechnungen"
+45:34 ff 1 Paris
+45:39 mkf Rom
+45:41 ff 1 Rom
+45:49 renf "Land&Städte" "Land&Staedte"
+46:15 mkf Ergebnis
+46:18 ff 2 Ergebnis
+46:25 eotf

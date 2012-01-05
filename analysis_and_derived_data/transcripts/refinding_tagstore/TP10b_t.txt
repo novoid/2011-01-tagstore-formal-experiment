@@ -1,0 +1,8 @@
+
+0:47 tf 4 29.9 9
+1:00 tf 5 2.4 2
+# 3:58 Abbruch, da item nicht auffindbar (technisches Problem beim
+# Ablegen?)
+4:06 tf 7 2.8 2
+4:25 tf 8 5.8 2
+4:39 tf 9 5.5 2

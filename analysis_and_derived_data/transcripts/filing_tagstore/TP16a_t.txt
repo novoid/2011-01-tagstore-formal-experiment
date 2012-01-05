@@ -1,0 +1,46 @@
+10:45 sott
+10:58 t
+11:07 m
+11:09 ct "Ist es auch Möglich [...] das Kopieren und Einfügen vereinfachen...[...]"
+# TP fragt nach Vereinfachung, wird Möglichkeit genannt, alles auf 1x
+# zu kopieren
+11:41 ce
+11:43 t
+11:47 m2t 30
+12:06 ta 2
+12:15 ta 3
+12:30 ta 3
+12:45 ta 4
+12:57 ta 4
+13:04 ta 2
+13:18 ta 3
+13:30 ta 3
+13:37 ta 3
+13:43 ta 3
+13:49 ta 2
+13:52 ta 2
+14:04 ta 2
+14:10 ta 3
+14:15 ta 2
+14:23 ta 3
+14:28 td
+14:41 ta 3
+14:55 ta 3
+15:03 ta 3
+15:08 ta 2
+15:18 tc
+15:26 ta 3
+15:33 ta 3
+15:38 td
+15:40 ta 3
+15:53 ta 2
+16:05 ta 4
+16:11 tc
+16:12 ta 3
+16:29 ta 3
+16:37 ib
+17:02 ie
+17:12 ta 2
+17:18 ta 3
+17:18 eot
+17:18 eott

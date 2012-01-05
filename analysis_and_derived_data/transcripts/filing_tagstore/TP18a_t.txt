@@ -1,0 +1,210 @@
+## 10:54 sott
+## 11:00 t
+## 11:03 m2t 1
+## 11:03 fb "(Item erscheint nicht)"
+## 11:48 fe
+## 12:11 ta 2
+## 12:13 m
+## 12:26 t
+## 12:29 m2t 2
+## 12:36 ta 2
+## 12:40 td
+## 12:48 ta 3
+## 12:48 eot
+## 12:50 m
+## 13:00 t
+## 13:04 m2t 2
+## 13:21 ta 3
+## 13:25 td
+## 13:35 ta 3
+## 13:35 eot
+## 13:37 m
+## 13:45 t
+## 13:48 m2t 2
+## 13:58 ta 3
+## 14:01 td
+## 14:05 ta 3
+## 14:05 eot
+## 14:07 m
+## 14:25 t
+## 14:28 m2t 1
+## # das erste Umlautitem kommt erstmals
+## 14:42 ta 3
+## 14:42 eot
+## 14:43 m
+## 14:58 ct "Kann man sie aufmachen auch noch einmal?"
+## 15:02 ce
+## 15:02 ib
+## 15:05 ie
+## 15:08 t
+## 15:11 m2t 1
+## # 1 Umlautitem zuviel
+## 15:30 ta 2
+## 15:30 cf "Umlautitemtagging"
+## 15:45 ce
+## 15:46 m
+## 15:49 m2t 1
+## # 1 Umlautitem zuviel
+## 15:50 ct "Das ist wieder da."
+## 15:58 ce
+## 16:14 ct "Die da unten, die da angezeigt werden sind die, die ich als letztes vergeben habe..."
+## 16:21 ce
+## 16:24 ta 3
+## # 16:25 TP schliesst tsdialog mit rotem X - Prozess muss erneut
+## # gestartet werden :-(
+## 16:25 fb "(restart tagstore)"
+## # Alles muss wiederholt werden
+18:13 sott
+18:30 t
+18:33 m2t 2
+18:33 fb "(item erscheint nicht im tsdialog)"
+18:59 fe
+19:07 ta 2
+19:14 ta 3
+19:14 eot
+19:16 m
+19:22 t
+19:25 m2t 2
+19:39 ta 3
+19:42 td
+19:49 ta 3
+19:49 eot
+19:51 m
+19:56 t
+20:00 m2t 2
+20:05 ta 2
+20:07 td
+20:13 ta 2
+20:13 eot
+20:14 m
+20:19 t
+20:22 m2t 2
+20:35 ta 3
+20:38 td
+20:41 ta 3
+20:41 eot
+20:43 m
+20:50 t
+20:52 m2t 1
+# Umlautitem das erste Mal drinnen
+21:06 ta 3
+21:06 eot
+21:08 m
+21:11 t
+21:15 m2t 1
+# ein Umlautitem zuviel
+21:25 ta 3
+21:25 cf "Umlautitemtagging"
+21:28 ce
+21:28 eot
+21:29 m
+21:40 ib
+21:43 ie
+21:50 t
+21:54 m2t 3
+# ein Umlautitem zuviel
+22:09 ta 3
+22:17 td
+22:29 ta 3
+22:36 tc
+22:46 ta 4
+22:46 cf "Umlautitemtagging"
+22:48 ce
+22:48 eot
+22:48 m
+22:58 ib
+23:07 ie
+23:10 t
+23:14 m2t 3
+# ein Umlautitem zuviel
+23:24 ta 4
+23:27 td
+23:36 ct "Die Reihenfolge ist eigentlich egal..."
+23:39 ce
+23:40 ta 4
+23:42 td
+23:51 ta 4
+23:51 cf "Umlautitemtagging"
+23:53 ce
+23:53 eot
+23:55 m
+24:13 t
+24:16 m2t 2
+# ein Umlautitem zuviel
+24:37 ta 3
+24:42 td
+24:46 ta 4
+24:46 cf "Umlautitemtagging"
+24:48 ce
+24:48 eot
+24:50 m
+24:59 ib
+25:06 ie
+25:09 ib
+25:12 ie
+25:15 t
+25:19 m2t 3
+# ein Umlautitem zuviel
+25:33 ta 3
+25:39 td
+25:52 ta 5
+25:56 td
+26:11 ta 5
+26:11 cf "Umlautitemtagging"
+26:15 ce
+26:15 eot
+26:17 m
+26:30 ib
+26:36 ie
+26:40 t
+26:45 m2t 2
+# ein Umlautitem zuviel
+26:57 ta 4
+27:01 td
+27:17 ta 5
+27:17 cf "Umlautitemtagging"
+27:21 ce
+27:21 eot
+27:22 m
+27:25 ib
+27:28 ie
+27:34 ib
+27:38 ie
+27:40 t
+27:44 m2t 2
+# ein Umlautitem zuviel
+27:49 tp
+28:04 ta 4
+28:18 ta 3
+28:18 cf "Umlautitemtagging"
+28:20 ce
+28:20 eot
+28:21 m
+28:26 ib
+28:29 ie
+28:33 ib
+28:35 ie
+28:41 t
+28:45 m2t 2
+# ein Umlautitem zuviel
+29:03 ta 3
+29:26 ta 4
+29:26 cf "Umlautitemtagging"
+29:27 ce
+29:27 eot
+29:28 m
+29:30 ib
+29:39 ie
+29:43 t
+29:46 m2t 3
+# ein Umlautitem zuviel
+29:51 tp
+29:56 tp
+30:07 ta 4
+30:16 td
+30:31 ta 3
+30:36 td
+30:52 tc
+30:58 ta 4
+30:58 eot
+30:58 eott

@@ -1,0 +1,47 @@
+7:50 sotf
+8:17 o
+8:21 mkf "sport"
+8:27 mkf "ski"
+8:31 m
+8:39 m2f 1 ski
+8:47 m2f 1 sport
+8:56 m2f 1 ski
+9:04 m2f 1 sport
+9:08 o
+9:12 mkf other
+9:16 m
+9:39 m2f 3 other
+9:43 o
+9:46 m
+10:08 ib
+10:10 ie
+10:21 m2f 1 sport
+10:25 o
+10:30 mkf uni
+10:32 m
+10:49 m2f 3 uni
+10:56 ib
+11:00 ie
+11:02 m2f 1 uni
+11:10 o
+11:16 mkf photos
+11:17 m
+11:28 m2f 3 photos
+11:45 o
+11:50 mkf basteln
+11:52 m
+12:03 m2f 4 basteln
+12:10 o
+12:14 mkf osm
+12:14 m
+12:27 m2f 6 osm
+12:42 o
+12:47 mkf bwl
+12:50 m
+13:02 m2f 3 bwl
+13:08 o
+13:12 mkf todo
+13:14 m
+13:19 m2f 2 todo
+13:21 eotf
+

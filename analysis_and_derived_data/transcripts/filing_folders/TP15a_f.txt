@@ -1,0 +1,67 @@
+20:27 sotf
+20:42 o
+20:55 mkf "Universität"
+20:57 m
+21:10 o
+21:17 mkf Bilder
+21:24 mkf Sport
+21:27 m
+22:08 ct "Kann ich es ausschneiden oder ist es egal?"
+#22:10 cf "Wie du willst, Hauptsache du merkst es dir wo schon was ist"
+22:14 ce
+22:14 o
+22:14 m2f 4 "Universität"
+22:15 m
+22:34 o
+22:40 mkf Anleitungen
+22:43 m
+23:40 o
+23:40 m2f 5 Bilder
+23:41 m
+23:57 o
+23:57 m2f 3 Anleitungen
+23:58 m
+24:00 ct "Kann ich grundsätzlich schon noch mal aufrufen die Bilder, oder?"
+24:04 ce
+24:03 ib
+24:05 ie
+24:08 o
+24:17 mkf "Netzpläne"
+24:20 m
+24:27 o
+24:28 m2f 3 "Netzpläne"
+24:28 m
+24:30 o
+24:31 m2f 1 Anleitungen
+24:49 m
+24:56 o
+24:57 m2f 1 Bilder
+24:58 m
+25:14 o
+25:15 m2f 4 Sport
+25:15 m
+25:18 o
+25:18 m2f 2 Bilder
+25:45 mkf Ergebnisse
+25:48 m
+25:54 o
+25:54 m2f 2 Ergebnisse
+25:55 m
+26:25 ib
+26:27 ie
+26:29 ib
+26:30 ie
+26:36 ib
+26:42 ie
+27:16 ct "Ich würde jetzt eventuell, wenn ich jetzt von mir ausgehe, wenn jetzt nur eine Datei für mich persönlich auf keinen Ordner zutrifft - soll ich dann trotzdem einen Ordner erstellen? Also bei mir daheim würde ich für eine Datei keinen extra Ordner erstellen, weil es sich nicht auszahlt."
+#27:32 cf "Wie du willst, liegt alles bei dir."
+27:35 ce
+27:35 o
+27:40 mkf Diverses
+27:41 m
+27:50 o
+27:52 m2f 5 Diverses
+27:52 m
+27:52 o
+28:13 eotf
+

@@ -1,0 +1,11 @@
+21:15 sott
+21:21 ct "Ich nehme die Dateien jetzt und lege Sie ..."
+21:35 ce
+21:39 ct "So ich nehme die und schiebe sie ..."
+21:48 ce
+21:50 t
+21:54 m2t 2
+22:08 ct "Ist der da sensibel bei ..."
+# Umlaute bei Tags
+22:15 ce
+## TP wird ignoriert, da er zu viel dauernd geredet hat :-(

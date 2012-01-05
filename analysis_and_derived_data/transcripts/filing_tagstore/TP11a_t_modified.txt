@@ -1,0 +1,61 @@
+12:12 sott
+12:20 m2t 10
+12:31 ta 3
+12:48 tc
+12:54 ta 3
+13:03 ta 3
+13:09 ct "Man sollte die Tags noch werten, das wäre einfacher"
+13:13 ce
+13:13 ta 2
+13:29 ta 3
+13:46 ta 3
+13:51 tc
+13:58 ta 2
+13:58 td
+13:58 ta 2
+13:58 eot
+13:58 fb "(TP versucht ein item neu einzufügen)"
+# # zu schnell 2x Enter gedrückt, ein Item versehentlich mitgetaggt
+# 13:59 ct "Nein!"
+# 14:03 ce
+# 14:03 ib
+# 14:10 ie
+# # TP versucht, Item "UPC Musterrechnung" neu in tagstore einzufügen
+# 14:30 ct "Da fehlt was"
+# 14:32 ce
+14:51 fe
+15:01 m2t 20
+15:09 ta 3
+15:17 ta 3
+15:26 ta 3
+15:41 ta 3
+15:41 cf "Umlautitemtagging"
+# 15:54 ct "Wieso kommen die PDFs wieder rein?"
+16:22 ce
+16:33 ta 3
+16:41 ta 3
+16:53 ta 3
+16:59 ta 2
+17:08 ta 2
+17:10 td
+17:12 ta 2
+17:29 ta 4
+17:35 tc
+17:41 ta 2
+18:00 ta 3
+18:02 ct "DIe Liste ist begrenzt [...], oder?"
+18:06 ce
+18:15 ta 3
+18:18 td
+18:20 ta 3
+18:31 ta 3
+18:37 td
+18:43 ta 4
+18:44 ct "Wäre schön, wenn es bei Fotos noch die EXIF Daten aus den Fotos rausholen würde"
+18:49 ce
+18:58 ta 3
+19:09 ta 3
+19:12 tc
+19:19 ta 2
+19:19 eot
+19:19 eott

@@ -1,0 +1,108 @@
+6:37 sotf
+
+6:39 o
+6:45 mkf Fotos
+7:00 mkf "Baupläne"
+7:07 mkf Skripten
+7:08 m
+7:27 ct "Darf ich die Dateien wieder öffnen?"
+7:33 ce
+7:39 o
+7:46 mkf Gutscheine
+7:48 o
+7:58 m
+8:03 m2f 2 Gutscheine
+8:05 m
+8:12 o
+8:19 mkf "Netzpläne"
+8:22 m
+8:34 o
+8:37 m2f 2 "Netzpläne"
+8:38 m
+8:43 ib
+8:54 ie
+9:25 o
+9:28 m2f 9 Fotos
+9:39 cl "Ansicht gewechselt"
+9:44 ct "Gibt es da nicht so eine Miniaturansicht?"
+9:55 ce
+9:55 cl "Ansicht auf tiles gewechselt"
+9:55 ce
+10:01 m
+10:12 o
+10:17 m2f 2 Skripten
+10:27 mkf Mathematik
+10:29 ff 1 Mathematik
+10:37 mkf Psychologie
+10:40 ff 1 Psychologie
+10:42 m
+10:53 o
+10:58 m2f 3 "Baupläne"
+11:03 m
+11:09 ib
+11:11 ie
+11:14 o
+11:20 ib
+11:22 ie
+11:23 m
+11:31 ib
+11:32 ie
+11:37 o
+11:41 m2f 1 "Baupläne"
+11:42 m
+11:56 o
+12:12 mkf Freizeit
+12:16 m
+12:30 o
+12:33 m2f 2 Freizeit
+12:48 mkf Uni
+12:50 m
+12:56 ib
+14:06 ie
+14:10 o
+14:35 mvf 1 Uni
+14:38 m2f 2 Uni
+14:46 m
+14:49 ib
+14:51 ie
+15:00 o
+15:10 mkf Privat
+15:35 mvf 2 Privat
+15:41 mkf Sonstiges
+15:43 m
+15:49 o
+15:58 m2f 1 Fotos
+16:05 o
+16:10 mvf 1 Sonstiges
+16:13 mvf 1 Sonstiges
+16:16 mvf 1 Privat
+16:19 m
+16:28 ib
+16:41 ie
+16:44 o
+16:50 m2f 1 Sonstiges
+16:52 m
+16:59 o
+17:04 m2f 2 Uni
+17:11 m
+17:23 o
+17:43 m2f 2 Privat
+17:49 ib
+18:02 ie
+18:07 ff 1 Uni
+18:23 m
+18:25 o
+18:55 cl "renamed Freizeit -> Rad und Ski"
+18:55 ce
+19:06 cl "renamed Rad und Ski -> Rad und Ski Ergebnisse"
+19:06 ce
+19:27 mkf Sonstiges
+19:31 ff 1 Sonstiges
+19:55 ff 1 Sonstiges
+20:08 cl "renamed Skripten -> Skripten und Unterlagen"
+20:08 ce
+20:10 ff 2 "Skripten und Unterlagen"
+20:59 mkf Sonstiges
+21:01 ff 1 Sonstiges
+21:04 eotf
+
