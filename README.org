@@ -57,29 +57,16 @@ software.
 
 Here is the list of things which will be published here in future:
 
-** Transcripts
-
-We developed a detailed transcript language and are writing down each
-event very carefully: counting mouse clicks, writing down each spoken
-word, taking notes on each relevant GUI element interaction. 
-
-This took us very long.
-
-The definition of the transcript language will be published here
-too.
-
-The raw transcript files will be published here soon.
-
 ** Transcript processing scripts
 
 Python-parser are reading the transcript files and generate a ASCII
 and CSV summary per transcript file. Those parsers will be published
 too.
 
-** Raw and Summarized Results
+** Summarized Results
 
-The summarized CSV files (all TPs) as well as Spreadsheets containing
-the derived diagrams will be published.
+The raw summary CSV files (all TPs) are committed already. The
+spreadsheets containing the derived diagrams will be published soon.
 
 ** Formal Experiment Report
 
