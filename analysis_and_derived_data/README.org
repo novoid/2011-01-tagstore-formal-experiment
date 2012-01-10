@@ -1,0 +1,305 @@
+* results.ods
+
+- open with [[http://www.libreoffice.org/][LibreOffice]] (or [[http://www.openoffice.org/][OpenOffice.org]])
+- TP06 was completely dismissed because of constant talking: no way to
+  tell difference between comment time and actual working on tasks.
+- many data issues are not yet analyzed!
+  - time spent on distractions
+    - comments
+    - item inspections
+    - facilitator
+    - distraction time while being in file management
+    - distraction time while being in tagging mode
+  - sum of folders
+  - sum of tags
+  - average tags/item
+  - detailed list of tags per item
+  - detail list of time the TPs spent for tagging each item
+  - sum of copy processes from item drive to target drives (folders, tagstore)
+
+** «Background_Q»
+
+*** Description
+
+Mostly German summary of the background questionnaires. Most important
+things were additionally translated to English.
+
+«Ja» means yes; «Nein» means no.
+
+*** Notable Findings
+
+- high education level
+- good PC experience
+- working 45h/week on computer
+- most TPs working with MS Windows
+- 50% is *not* using tagging
+- majority is using hierarchical structure to manage emails
+
+** «Feedback_Q»
+
+*** Description
+
+- Likert scale:
+  - 0 ... best/fastest/yes
+  - 6 ... worst/slowest/no
+
+*** Notable Findings
+
+- *78%* of the TPs would prefer tagstore over storing in a folder hierarchy!
+- most TPs do think that tagstore provides a faster method
+
+** «Test_Data_Summary»
+
+*** Description
+
+- Summarized view of [[*%C2%ABTest_Data%C2%BB][«Test_Data»]]
+  - basis: overall task times without distractions like comments,
+    bugs, inspection times, ...
+- the re-find values of TP10 and TP15 were corrected because both TPs
+  faced (technical) problems when re-finding item number three.
+- last two columns reflect the re-find tasks without the first items
+  - the first items took much longer than the rest and are therefore
+    considered as «items to get used to the task»
+
+*** Notable Findings
+
+|         | filing folders | filing tagstore | re-finding folders | re-finding tagstore |
+|---------+----------------+-----------------+--------------------+---------------------|
+| average |            451 |             542 |                 25 |                  26 |
+| stddev  |            148 |             240 |                  7 |                   8 |
+
+- *filing tagstore was slower* than filing folders
+  - p-value = 0.11
+  - standard deviation is much greater when filing tagstore!
+- *re-finding performance: no significant difference*
+  - p-value = 0.94
+
+- diagram of Filing Performance:
+  - TPs performed very differently
+    - compare to «[[*%C2%ABonly_fast_performer%C2%BB][only_fast_performer»]]  
+
+** «Combined_Performance»
+
+*** Description
+
+The data consists of the sum of filing times for folders and tagstore,
+sorted descending. The diagram visualizes the distribution.
+
+*** Notable Findings
+
+- only TP8 takes way longer than the other TPs
+
+** «Distribution_Filing_tagstore»
+
+*** Description
+
+The filing times within tagstore are being sorted descending; a
+diagram was derived.
+
+*** Notable Findings
+
+- three slow performers
+  - TP 7, 8, 17
+  - 66.6% of group 1, 33,3% of group 2
+- six medium performers
+  - TP 1, 3, 10, 12, 13, 18
+  - 33,3% of group 1, 66,6% of group 2
+- eight fast performers
+  - TP 2, 4, 5, 9, 11, 14, 15, 16
+  - 50% of group 1, 50% of group 2
+
+- distribution among TP groups is very fair
+
+** «wo_slow_ts_performer»
+
+*** Description
+
+- See «Notable Findings» of [[*%C2%ABDistribution_Filing_tagstore%C2%BB][«Distribution_Filing_tagstore»]]
+- summary of the TP data without the slow performers TP 7, 8, and 17
+- Assumption
+  - removing a few slow performer may clear up the results
+
+- Finding a sub-group without slow performer
+  - sorted graph: filing in tagstore
+  - clear difference for TPs 7, 6, and 17
+
+*** Notable Findings
+
+|         | filing folders | filing tagstore | re-finding folders | re-finding tagstore |
+|---------+----------------+-----------------+--------------------+---------------------|
+| average |            433 |             456 |                 24 |                  25 |
+| stddev  |            117 |             156 |                  6 |                   7 |
+
+- filing in tagstore is still slower compared to filing times in folders
+- difference is much smaller though!
+- standard deviations are more similar
+- no substantial changes for re-finding tasks
+
+** «only_fast_performer»
+
+*** Description
+
+- See «Notable Findings» of [[*%C2%ABDistribution_Filing_tagstore%C2%BB][«Distribution_Filing_tagstore»]]
+- summary of the TP data of the fast performers TP 2, 4, 5, 9, 11, 14, 15, 16
+  - equally distributed among the two TP groups
+- very diverging filing performance among TP
+  - high values for standard deviations
+  - high fraction of task time relates to file management in general
+- probably: TPs have different file management competence in general
+
+- Assumption
+  - slow performing TPs dilutes clearer differences in the results
+    for example because of poor file management competence
+  - finding and comparing within a fair TP subgroup may give more
+    interesting results
+
+- Finding a fair sub-group of fast filing performer
+  - sorted graph: sum of filing time (folders and tagstore combined)
+  - fastest eight TP are 50% in group 1 and 50% in group 2
+  - TP: 2, 4, 5, 9, 11, 14, 15, 16
+  - Usage of tagging systems (Background questionnaires):
+    - fast performers: 3 of 8 (38%)
+    - rest: 6 of 9 (67%)
+    - therefore no speed advantage for TPs using tagging systems
+
+*** Notable Findings
+
+|         | filing folders | filing tagstore | re-finding folders | re-finding tagstore |
+|---------+----------------+-----------------+--------------------+---------------------|
+| average |            386 |             337 |                 24 |                  25 |
+| stddev  |             86 |              56 |                  6 |                   8 |
+
+- reversed result: *filing* in tagstore slightly faster(!) than filing
+  in folders
+  - p-value = 0.11
+- standard deviations of filing more similar
+  - less high, less difference
+- similar results for *re-finding* performance as with all TPs
+
+** «high_performer_vs_rest»
+
+*** Description
+
+This sheet visualizes miscellaneous values of the group of fast
+performers compared to the rest.
+
+*** Notable Findings
+
+- filing_folders
+  - Overall time without distractions
+    - Here is a big difference but this is logical since we divided
+      fast and slow performer
+  - #M2F - number of move file actions from item drive to folder drive
+    - fast average: 9.63
+    - rest average: 6.56
+    - It is remarkable that the *fast performers* actually *used more
+      move file actions* than the rest
+- filing_tagstore
+  - percentage of file management time (or tagging time) to total time
+    - fast performer and rest used approximately 75% for tagging and
+      the rest for file management
+    - no clear difference here
+  - sum of distractions
+    - fast average: 79.13s
+    - rest average: 194.67s
+    - big difference, *fast performers* were *not distracted* that much
+      - NOTE: distraction times were removed for calculating results!
+      - biggest difference could be found in file management
+        distractions and (more in detail) inspection time
+        - *fast performers did not re-inspect test items* that much
+  - sum of tags, average tags/item
+    - fast average: 67.75
+    - rest average: 90.80
+    - *fast performer used less tags*
+  - tag proposals
+    - only three of the fast performers and two of the rest clicked on
+      proposed tags
+    - NOTE: a full blown tag recommendation system is part of a later
+      version of tagstore
+  - tag defaults
+    - most used tag entry usability feature: six of the high performer
+      and eight of the rest used tag defaults from the previous
+      item tagged
+    - slightly less often used by fast performers
+  - tag completion
+    - used by five of the fast performers and seven of the rest
+    - no clear difference
+  - #m2t - number of *move file actions* from item drive to tagstore
+    storage folder
+    - fast average: 3.88
+    - rest average: 8.56
+    - *fast performer used fewer move actions to tagstore*
+      - *opposite finding to filing in folders*
+    - Interpretations:
+      - A higher number of move actions from item folder to tagstore
+        might produce more task switching effort for TPs
+- refinding_folders
+  - number of mouse clicks
+    - fast average sum: 19.38
+    - rest average sum: 18.68
+    - *no difference in average number of mouse clicks*
+- refinding_tagstore
+  - number of mouse clicks
+    - fast average sum: 14.45
+    - rest average sum: 13,46
+    - *no difference in average number of mouse clicks*
+
+** refinding_clicks
+
+|                     | sum of average mouse clicks per item |
+|---------------------+--------------------------------------|
+| re-finding folder   | 19.00                                |
+| re-finding tagstore | 13.92                                |
+
+p-value: <0.01
+
+**** Notable Finding
+
+- *re-finding in tagstore takes fewer mouse clicks*
+
+** «Test_Data»
+*** Description
+
+This tab is a combined view for the raw CSV imports from:
+- transcripts/filing_folders.csv
+- transcripts/filing_tagstore.csv
+- transcripts/refinding_folders.csv
+- transcripts/refinding_tagstore.csv
+
+Mostly as reference to the sheets ending with «_raw».
+
+*** Notable Findings
+
+see «[[*%C2%ABTest_Data_Summary%C2%BB][Test_Data_Summary]]»
+
+** sheets ending with «_raw»
+
+Those are the raw CSV imports from the files:
+- transcripts/filing_folders.csv
+- transcripts/filing_tagstore.csv
+- transcripts/refinding_folders.csv
+- transcripts/refinding_tagstore.csv
+
+We manually added the first column «TP» for making clear which row
+belongs to which Test Person.
+
+** sheets beginning with «filing_» or «refinding_» (not ending with «_raw»)
+
+The re-finding raw-pages contain rows with multiple entries
+(lists). We split up those lists into separate spreadsheet columns to
+be able to analyze them more easily.
+
+** sheets beginning with «data_» and ending with «_performer»
+
+ - *fast performer*: see description of [[*%C2%ABonly_fast_performer%C2%BB][«only_fast_performer»]]
+ - *medium performer* and *slow performer*
+   - the combination is the inverse of the fast performers
+   - see findings of [[*%C2%ABDistribution_Filing_tagstore%C2%BB][«Distribution_Filing_tagstore»]]
+ - split into medium and slow performers is because of filing
+   performance in tagstore (only)
+ - therefore most of the comparisons do only make sense between fast
+   performer and the rest
+
+The sheets here contain the linked data of the related group(s) of
+TPs.
+
