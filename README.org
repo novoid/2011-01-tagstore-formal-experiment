@@ -5,9 +5,10 @@ clear some questions in the field of personal information management
 (PIM), information re-finding, and information architecture. This
 repository holds relevant data to verify or extend this experiment.
 
-For this purpose, the testing framework [[http://tagstore.org][tagstore]] was used to *compare*
-storing files (images, graphics and documents) within the 
-*folder hierarchy* using Microsoft Windows Explorer *and tagstore*.
+For this purpose, the testing framework tagstore (http://tagstore.org)
+was used to *compare* storing files (images, graphics and documents)
+within the *folder hierarchy* using Microsoft Windows Explorer *and
+tagstore*.
 
 The tagstore framework supports file management by applying
 tags. Those tags are being used to (automatically) generate *navigation
