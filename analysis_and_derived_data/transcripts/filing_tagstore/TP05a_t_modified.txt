@@ -1,0 +1,132 @@
+17:38 sott
+17:49 m2t 10
+# ein Umlautitem das erste Mal dabei
+17:52 fb "tagstore Dialog kommt nicht"
+# tagstore wird per Script restartet
+18:08 fe
+18:24 ta 1
+18:26 td
+18:26 ta 1
+18:27 td
+18:27 ta 1
+18:28 td
+18:28 ta 1
+18:28 td
+18:28 ta 1
+18:29 td
+18:29 ta 1
+18:34 td
+18:34 ta 1
+18:38 td
+18:42 ta 2
+18:46 td
+18:47 ta 2
+18:52 td
+18:52 ta 1
+18:52 eot
+# 19:10 TP löscht 10 items von oben von M, da vorher nur kopiert
+19:32 m2t 3
+19:32 cf "Umlautitemtagging"
+#19:48 ta 1
+19:48 ce
+19:49 td
+19:51 ta 2
+19:54 td
+19:54 ta 2
+19:55 td
+19:55 ta 2
+19:55 eot
+20:14 m2t 1
+20:14 cf "Umlautitemtagging"
+#20:24 ta 2
+20:24 ce
+20:25 td
+20:26 ta 2
+20:26 eot
+20:46 m2t 4
+20:53 tp
+21:06 ta 2
+21:08 td
+21:08 ta 2
+21:09 td
+21:09 ta 2
+21:13 td
+21:21 ta 2
+21:21 cf "Umlautitemtagging"
+#21:22 td
+#21:27 ta 3
+21:27 ce
+21:27 eot
+21:41 m2t 1
+21:44 tp
+21:55 ta 3
+21:55 cf "Umlautitemtagging"
+#22:01 td
+#22:15 ta 2
+22:15 ce
+22:15 eot
+22:26 m2t 1
+22:31 tp
+22:43 ta 1
+22:43 cf "Umlautitemtagging"
+#22:47 tp
+#22:50 ta 2
+22:50 ce
+22:50 eot
+23:13 m2t 4
+23:13 ct "OK, da kommen immer ein paar extra. ... (unverständlich)"
+23:28 ce
+23:42 ta 2
+23:44 td
+23:44 ta 2
+23:46 td
+23:46 ta 2
+23:49 td
+23:49 ta 2
+23:49 cf "Umlautitemtagging"
+#23:55 tp
+#24:05 ta 2
+24:05 ce
+24:05 eot
+24:20 m2t 2
+# zwei items mit Umlauten (wieder mal) zu viel
+24:20 cf "Umlautitemtagging"
+#24:33 tp
+# Error: TP versucht "Photo" aus den Recommendations zu klicken und es
+# kommt nix :-(
+#24:50 ta 1
+#24:56 ta 1
+24:56 ce
+25:05 ta 2
+25:05 td
+25:05 ta 2
+25:05 eot
+25:22 m2t 2
+## wieder zwei zu viel; TP wundert sich:
+25:22 ct "Hm, da braucht es noch a bisserl"
+25:29 ce
+25:35 ta 1
+25:37 td
+25:37 ta 1
+25:37 cf "Umlautitemtagging"
+#25:44 ta 1
+#25:51 tc
+#26:00 ta 1
+26:00 ce
+26:00 eot
+26:09 m2t 2
+## wieder zwei zu viel
+26:19 ta 1
+26:24 tc
+26:26 ta 1
+26:26 cf "Umlautitemtagging"
+#26:34 ta 1
+#26:45 ta 1
+26:45 ce
+26:45 eot
+26:46 eott
+#26:52 t
+#27:05 cf "OK?"
+#27:05 ce
+#27:10 ct "(unverständlich)"
+#27:12 ce

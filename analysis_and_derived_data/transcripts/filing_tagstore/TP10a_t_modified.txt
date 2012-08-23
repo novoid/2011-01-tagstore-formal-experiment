@@ -1,0 +1,67 @@
+10:18 sott
+10:39 ct "Kann ich Tags im Nachhinein ändern?"
+10:44 ce
+11:04 m2t 30
+11:49 ta 2
+12:05 td
+12:12 ta 2
+12:12 td
+12:40 ta 2
+12:40 td
+12:45 ta 2
+13:10 td
+13:13 ta 3
+13:13 td
+13:21 ta 3
+14:08 ta 2
+14:08 td
+14:27 ta 3
+14:39 td
+14:43 ta 3
+14:52 td
+14:58 ta 3
+15:04 td
+15:10 ta 4
+15:36 td
+15:51 ta 4
+15:58 td
+16:00 ta 4
+16:15 td
+16:27 ta 3
+16:29 td
+16:33 ta 3
+16:45 td
+16:58 ta 3
+17:00 td
+17:04 ta 3
+17:12 td
+17:18 ta 2
+17:21 td
+17:31 ta 3
+17:35 td
+17:39 ta 4
+17:46 td
+17:58 ta 3
+18:02 td
+18:11 ta 4
+18:18 td
+18:35 ta 3
+18:39 td
+18:49 ta 3
+18:52 td
+18:55 ta 3
+19:02 td
+19:12 ta 3
+19:18 td
+19:27 ta 3
+19:36 td
+19:49 ta 4
+19:57 ct "Gut, das hätte ich vielleicht anschauen sollen, das Foto"
+20:03 ce
+20:03 ib
+20:18 ie
+20:18 td
+20:31 ta 3
+20:31 eot
+20:31 eott
+

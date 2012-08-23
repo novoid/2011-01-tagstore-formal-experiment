@@ -1,0 +1,48 @@
+
+20:24 sott
+
+20:30 cf "Bitte um Kopieren statt Verschieben"
+20:39 ce
+20:48 m2t 30
+20:49 cf "tsdialog im Hintergrund und heir sind alle Dateien"
+20:53 ce
+20:55 ct "Muss ich 2 Tags vergeben oder kann ich ... [Du kannst beliebig viele, max. 7, vergeben]"
+21:07 ce
+21:09 ta 1
+21:16 ta 2
+21:23 ta 2
+21:31 ta 3
+21:39 ta 3
+21:49 ta 2
+22:00 ta 3
+22:10 ta 2
+22:18 ta 2
+22:24 ta 2
+22:25 cf "Man kann auch die Tags per Enter speichern"
+22:29 ce
+22:34 ta 2
+22:38 ta 2
+22:45 ta 2
+22:52 ta 2
+22:56 ta 2
+23:00 ta 2
+23:04 ta 2
+23:11 ta 2
+23:17 ta 2
+23:22 ta 2
+23:28 ta 2
+23:32 ta 2
+23:35 ta 2
+23:41 ta 2
+23:50 ta 4
+23:59 ta 3
+24:03 ta 2
+24:07 ta 2
+24:10 ta 2
+24:14 ta 2
+24:14 eot
+
+24:24 eott
+
+
+

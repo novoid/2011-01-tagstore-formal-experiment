@@ -1,0 +1,152 @@
+13:21 sott
+13:36 m2t 1
+13:36 fb "(tsdialog zeigt Item nicht an)"
+14:03 fe
+14:28 ta 4
+14:28 eot
+14:36 ct "Darf man die Dateien auch noch einmal aufmachen?"
+14:40 ce
+14:40 ib
+14:52 ie
+15:00 m2t 2
+15:22 ta 4
+15:41 ta 3
+15:41 eot
+15:51 ib
+16:09 ie
+16:16 ib
+16:24 ie
+16:30 m2t 2
+16:47 ta 3
+17:20 ta 3
+17:20 eot
+17:25 ib
+17:50 ie
+17:56 m2t 1
+18:15 ta 5
+18:15 cf "(TagTreeerstellung)"
+18:18 ce
+18:18 eot
+18:23 ib
+18:44 ie
+18:54 m2t 1
+# tsdialog meldet, dass mehr als 6 tags zu viel sind; TP muss reduzieren
+19:42 ta 6
+19:42 cf "(TagTreeerstellung)"
+19:54 ce
+19:54 eot
+19:59 ib
+20:20 ie
+20:26 m2t 1
+# 1 Umlautitem das erste Mal dabei
+20:54 ta 4
+20:54 eot
+21:00 ib
+21:15 ie
+21:20 m2t 1
+# 1 Umlautitem zuviel
+21:48 ta 4
+21:48 cf "Umlautitemtagging"
+# TP schaut in TagTrees herum und wundert sich über Umlautitem
+# ct, cf
+22:27 ce
+22:27 eot
+22:31 ib
+22:42 ie
+22:49 m2t 1
+# 1 Umlautitem zuviel
+23:22 ib
+23:29 ie
+23:49 ta 5
+23:49 cf "Umlautitemtagging"
+23:56 ce
+23:56 eot
+24:01 ib
+24:27 ie
+24:32 m2t 1
+# 1 Umlautitem zuviel
+24:51 ib
+25:06 ie
+25:17 ta 6
+25:17 cf "(TagTreeerstellung)"
+25:25 ce
+25:25 eot
+# eigentlich hat TP tsdialog (wegen TagTreeerstellung oder Umlautitem) offen gelassen
+25:29 ib
+25:32 ie
+25:42 m2t 2
+# ein Umlautitem zuviel
+26:01 ta 3
+# TP läßt tsdialog wegen Umlautitem offenbar offen
+26:01 eot
+26:21 m2t 2
+26:43 ta 3
+27:05 ib
+27:09 ie
+27:19 ta 6
+27:19 cf "(TagTreeerstellung)"
+27:34 ce
+27:34 eot
+27:48 m2t 16
+# ein Umlautitem zuviel
+27:52 ib
+27:57 ie
+28:20 ta 3
+28:23 ib
+28:28 ie
+28:46 ta 4
+28:51 ib
+28:56 ie
+29:25 ta 3
+29:27 ib
+29:31 ie
+29:51 ta 4
+29:55 ib
+29:59 ie
+30:22 ta 4
+30:24 ib
+30:29 ie
+30:57 ta 4
+30:58 ib
+31:11 ie
+31:32 ta 4
+31:35 ib
+31:56 ie
+32:11 ta 4
+32:13 ib
+32:37 ie
+33:00 ib
+33:06 ie
+33:10 ta 5
+33:14 ib
+33:24 ie
+33:54 ta 4
+34:01 ib
+34:10 ie
+34:31 ta 4
+34:32 ib
+34:48 ie
+35:18 ta 4
+35:20 ib
+35:30 ie
+35:36 ib
+35:43 ie
+36:04 ta 4
+36:05 ib
+36:11 ie
+36:19 tc
+36:28 ib
+36:33 ie
+36:41 ta 4
+36:42 ib
+36:52 ie
+37:03 tc
+37:18 ta 5
+37:18 ib
+37:30 ie
+37:34 tc
+37:51 tc
+37:57 ta 3
+# Umlautitem bleibt übrig, wird hier abgeschnitten
+37:57 eot
+37:57 eott
