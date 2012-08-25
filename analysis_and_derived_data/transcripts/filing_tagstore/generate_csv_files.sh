@@ -52,7 +52,7 @@ grep " ta " TP*a_t.txt | grep -v '#' | sed "s/.* ta //" > all_numbers_of_tags.cs
 echo "generate average number of tags ..."
 awk '{ total += $1; count++ } END { print total/count }' \
     < all_numbers_of_tags.csv \
-    > average_nr_of_tags.csv
+    > average_nr_of_tags_-_general_value.csv
 
 echo "generate number of tags files for each TP ..."
 NR_OF_TAGS_FILE_POSTFIX="a_t_number_of_tags.csv"
@@ -75,5 +75,8 @@ for testperson in `ls -1 TP* | sed 's/TP\(..\).*/TP\1/' | sort | uniq`; do
 	> ${average_nr_of_tags_file}
 
 done
+
+echo "generating: average_nr_of_tags_-_list.csv"
+cat TP*a_t_average_number_of_tags.csv > average_nr_of_tags_-_list.csv
 
 #end

@@ -1,0 +1,30 @@
+bild,rom
+see,bild,alpen
+formular,bestellung,uni innsbruck
+tirol,rad,sport,ergebnis
+kaprun,sport. ergebnis,schi
+flieger,plan
+gvb,straßenbahn,plan
+wiener börse,artikel,geschichte
+graz,bild,schlossberg
+skoda,gutschein,auto
+plan,hornissen
+ikea,gutschein
+batterie,plan
+landkarte,plan,österreich
+mathematik,skriptum
+gvb,graz,plan
+paris,plan,öffentlicher verkehr
+präsentation,insolvenz,sanierung
+fußball,bild,sk sturm
+schaukel,plan
+schweiz,bild,schi
+segeln,adria,bild
+segeln,mittelmeer,bild
+psychologie,skriptum
+graz,bild,marathon,laufen
+logo,bild,sk sturm
+rechnung,muster,upc
+bild,vorlesung
+wien,bild,stephansdom
+wien,bild,öffentlicher verkehr,plan

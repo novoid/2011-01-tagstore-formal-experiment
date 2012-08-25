@@ -1,0 +1,32 @@
+Twitter,Alter
+Feld,Sonnenblume
+Flieger,Modellbau,Bauplan
+Hornissenkasten,Bauplan,Hornissen
+Bauplan,Kartoffelbatterie
+Schaukel,Bauplan,Spielplatz
+Graz,Netzplan
+Paris,Netzplan
+Wien,Netzplan
+Landkarten,Österreich
+Segeln,Adria,Sport
+Segeln,Mittelmeer,Sport
+Fussball,SK Sturm
+Schweiz,Skifaheren
+Graz,Marathon,Laufsport
+Logos,Fussball,SK Sturm
+Landkarten,Rom
+Reisen,Alpenraum,Seen
+Reisen,Graz,Schloßberg
+Wien,Reisen,Stephansdom
+Strassenbahn,Graz,Reisen
+Studium,Vorlesungen,BWL
+Skoda,Gutscheine
+IKEA,Gutscheine
+Bestellschein,Studium,UNI Innsbruck
+Tirol,Radrennen,Sportveranstaltungen
+Tirol,Sportveranstaltungen,Skirennen,Kaprun
+Mathematik,Studium,Skripten
+Studium,Insolvenz,BWL,Skriptum
+Studium,Psychologie,Psychoanalyse,Skriptum
+Wien,Geschichte,Börse
+Studium,BWL,Buchhaltung,Musterrechnungen

@@ -1,0 +1,30 @@
+Flieger,Bauplan
+Hornissenkasten,Bauplan
+Bauplan,Kartoffelbatterie
+Schaukel,Bauplan
+Alpensee,Foto,Ausflug
+Graz,Schlossberg,Foto
+Schweiz,Foto,Skifahren
+Segeln,Adria,Foto
+Segeln,Mittelmeer,Foto
+Foto,Graz,Marathon
+Vorlesung,Foto,BWL
+Wien,Foto,Stephansdom
+Foto,Graz,Marathon
+GVB,Graz,Netzplan
+Paris,Netzplan
+Foto,SK Sturm Graz
+Logo,SK Sturm Graz
+Skoda,Gutschein
+IKEA,Gutschein
+GVB,Foto
+Kaprun,Ergebnis,Skifahren
+Tirol,Ergebnis,Radrennen
+Wien,Netzplan
+Landkarte,Österreich
+Mathematik,Skriptum
+Bestellschein,Uni,Innsbruck
+Musterrechnung,UPC
+Insolvenz,Präsentation,Sanierung
+Wiener Börse,Geschichte
+Plan,Antikes Rom

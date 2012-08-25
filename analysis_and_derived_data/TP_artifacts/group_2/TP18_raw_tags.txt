@@ -1,0 +1,30 @@
+Bestellschein,Uni Ibk
+Musterrechnung,Inode,UPC
+Tirol,Ergebnislisten,Radrennen
+Schifahren,Ergebnislisten,Kaprun
+Skoda,Gutscheine
+Ikea,Gutscheine
+Uni,Psycho,Skripten
+Uni,Skripten,Mathe
+Wien,Geschichte,Börse
+Zusammenfassung,Sanierung,Insolvenz
+Flieger,Flugzeug,Bauplan
+Bauplan,Energie,Kartoffelbatterie
+Kinder,Schaukel,Garten,Bauplan
+Schweiz,Schifahren,Urlaub,Winter
+Adria,Segeln,Urlaub,Sommer
+Segeln,Urlaub,Mittelmehjr,Sommer
+Fahrplan,Karte,Wiener Linien
+GVB,Graz,Fahrplan,Karte
+Wandern,Alpensee,Urlaub
+Schlossberg,Urlaub,Aufzug,Graz,Stadt
+Wien,Stefansdom,Stadt,Urlaub,Kirche
+Logo,Fußball,SK Sturm,Graz
+Graz,SK Sturm,Kinderfußball,Fußball,Knirpse
+Graz,Sport,Marathon,Startfoto
+Uni,Vorlesung,BWL
+Hobby,Bienen,Bauplan
+Antike,Urlaub,Rom,Karte
+GVB,Graz,Straßenbahn,Karte
+Bundesländer,Österreich,Karte
+Paris,Straßenbahn,Netzplan,Karte

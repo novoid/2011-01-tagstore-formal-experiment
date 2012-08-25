@@ -1,0 +1,30 @@
+C:\testdata\TP09\Ordner\Bilder
+C:\testdata\TP09\Ordner\Bilder\Familie
+C:\testdata\TP09\Ordner\Bilder
+C:\testdata\TP09\Ordner\Bilder\Urlaub
+C:\testdata\TP09\Ordner\Bilder\Urlaub
+C:\testdata\TP09\Ordner\Bilder\Urlaub
+C:\testdata\TP09\Ordner\Bilder\Urlaub
+C:\testdata\TP09\Ordner\Bilder\Urlaub
+C:\testdata\TP09\Ordner\Dokumente
+C:\testdata\TP09\Ordner\Gutscheine
+C:\testdata\TP09\Ordner\Gutscheine
+C:\testdata\TP09\Ordner\sonstiges
+C:\testdata\TP09\Ordner\sonstiges\öffentl Verkehr
+C:\testdata\TP09\Ordner\sonstiges\öffentl Verkehr
+C:\testdata\TP09\Ordner\sonstiges\öffentl Verkehr
+C:\testdata\TP09\Ordner\sonstiges\öffentl Verkehr
+C:\testdata\TP09\Ordner\sonstiges\öffentl Verkehr
+C:\testdata\TP09\Ordner\sonstiges\unwichtiges
+C:\testdata\TP09\Ordner\sonstiges\unwichtiges
+C:\testdata\TP09\Ordner\sonstiges\unwichtiges
+C:\testdata\TP09\Ordner\Sport und Freizeit
+C:\testdata\TP09\Ordner\Sport und Freizeit
+C:\testdata\TP09\Ordner\Uni
+C:\testdata\TP09\Ordner\Uni
+C:\testdata\TP09\Ordner\Uni
+C:\testdata\TP09\Ordner\Uni
+C:\testdata\TP09\Ordner\Uni
+C:\testdata\TP09\Ordner\Zeichnungen
+C:\testdata\TP09\Ordner\Zeichnungen
+C:\testdata\TP09\Ordner\Zeichnungen

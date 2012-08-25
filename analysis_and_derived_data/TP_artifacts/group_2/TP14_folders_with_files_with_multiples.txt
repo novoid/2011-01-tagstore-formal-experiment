@@ -1,0 +1,30 @@
+C:\testdata\TP14\Ordner\Bilder\Bauanleitungen
+C:\testdata\TP14\Ordner\Bilder\Bauanleitungen
+C:\testdata\TP14\Ordner\Bilder\Bauanleitungen
+C:\testdata\TP14\Ordner\Bilder\Bauanleitungen
+C:\testdata\TP14\Ordner\Bilder\BWL_Vorlesung
+C:\testdata\TP14\Ordner\Bilder\Div. Karten
+C:\testdata\TP14\Ordner\Bilder\Div. Karten
+C:\testdata\TP14\Ordner\Bilder\Marathon Graz
+C:\testdata\TP14\Ordner\Bilder\Netzpläne
+C:\testdata\TP14\Ordner\Bilder\Netzpläne
+C:\testdata\TP14\Ordner\Bilder\Netzpläne
+C:\testdata\TP14\Ordner\Bilder\SK Sturm
+C:\testdata\TP14\Ordner\Bilder\SK Sturm
+C:\testdata\TP14\Ordner\Bilder\Urlaub\Ausflug_Alpensee
+C:\testdata\TP14\Ordner\Bilder\Urlaub\Ausflug_Graz
+C:\testdata\TP14\Ordner\Bilder\Urlaub\Ausflug_Graz
+C:\testdata\TP14\Ordner\Bilder\Urlaub\Segeln_Adria
+C:\testdata\TP14\Ordner\Bilder\Urlaub\Segeln_Mittelmeer
+C:\testdata\TP14\Ordner\Bilder\Urlaub\Skifahren_Schweiz
+C:\testdata\TP14\Ordner\Bilder\Urlaub\Wien
+C:\testdata\TP14\Ordner\Gutscheine
+C:\testdata\TP14\Ordner\Gutscheine
+C:\testdata\TP14\Ordner\Rechnungen\UPC
+C:\testdata\TP14\Ordner\Sonstiges
+C:\testdata\TP14\Ordner\Sonstiges
+C:\testdata\TP14\Ordner\Sport\Radfahren
+C:\testdata\TP14\Ordner\Sport\Skifahren
+C:\testdata\TP14\Ordner\Universität\Bestellungen
+C:\testdata\TP14\Ordner\Universität\Vorlesungen\Mathematik\Skriptum
+C:\testdata\TP14\Ordner\Universität\Vorlesungen\Psychoanalyse\Skriptum

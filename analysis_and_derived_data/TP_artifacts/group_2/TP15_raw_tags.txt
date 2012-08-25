@@ -1,0 +1,31 @@
+sonnenblumenfeld
+grafik,twitter,alter
+antikes,bild,rom
+alpensee,bild,ausflug
+universität,bestellschein,innsbruck
+tirol,sport,ergebnis,radrennen
+schifahren,sport,ergebnis,kaprun
+flieger,bauplan
+gvb,linie 5,straßenbahn,bild
+wiener börse
+schlossberg,graz
+auto,skoda,gutschein
+hornissenkasten,plan,bauplan
+ikea,gutschein
+bauplan,kartoffelbatterie
+geografie,landkarte,österreich
+universität,mathematik,skriptum
+gvb,straßenbahn,netzplan
+paris,straßenbahn
+insolvenz,sanierung,präsentation
+sport,knirpse,sk sturm,nachwuchs
+anleitung,schaukel,plan,bauplan
+schweiz,schifahren,sport
+segeln,adria,sport
+segeln,mittelmeer,sport
+universität,psychoanalyse,skriptum
+start,graz,sport,marathon
+logo,sport,sk sturm
+rechnung,muster,upc
+universität,bwl,skriptum
+wien,stephansdom

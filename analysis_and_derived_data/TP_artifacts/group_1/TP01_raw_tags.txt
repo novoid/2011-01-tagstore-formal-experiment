@@ -1,0 +1,30 @@
+Alpensee,Urlaub,Ausflug
+Flieger,Bauplan
+Bauplan
+Bauplan
+Bauplan
+Schweiz,Urlaub,Ski fahren
+Kaprun,Ski fahren,Rennen
+Wien,Verkehr,Urlaub
+Wien,Urlaub
+Paris,Verkehr,Urlaub
+Graz,Verkehr
+Uni,BWL
+Uni,Psychoanalyse
+Uni,Mathematik
+Adria,Urlaub,Italien
+Mittelmeer,Urlaub,Italien
+Gutschein
+Gutschein
+SK Sturm
+SK Sturm
+Graz,Sport
+Rad fahren,Sport,Rennen,Tirol
+Landkarte,Österreich
+Graz
+Graz,Verkehr
+Landkarte,Rom
+Uni Innsbruck,Business
+Uni
+Business
+Rechnung,UPC,Business

@@ -1,0 +1,30 @@
+C:\testdata\TP16\Ordner\Bauanleitungen
+C:\testdata\TP16\Ordner\Bauanleitungen
+C:\testdata\TP16\Ordner\Bauanleitungen
+C:\testdata\TP16\Ordner\Bauanleitungen
+C:\testdata\TP16\Ordner\Bilder
+C:\testdata\TP16\Ordner\Bilder\Öffentlicher Verkehr
+C:\testdata\TP16\Ordner\Bilder\Öffentlicher Verkehr
+C:\testdata\TP16\Ordner\Bilder\Öffentlicher Verkehr
+C:\testdata\TP16\Ordner\Bilder\Öffentlicher Verkehr
+C:\testdata\TP16\Ordner\Bilder\Landkarten
+C:\testdata\TP16\Ordner\Bilder\Landkarten
+C:\testdata\TP16\Ordner\Bilder\Logos
+C:\testdata\TP16\Ordner\Bilder\Sehenswürdigkeiten
+C:\testdata\TP16\Ordner\Bilder\Sehenswürdigkeiten
+C:\testdata\TP16\Ordner\Bilder\Sport
+C:\testdata\TP16\Ordner\Bilder\Sport
+C:\testdata\TP16\Ordner\Bilder\Sport
+C:\testdata\TP16\Ordner\Bilder\Sport
+C:\testdata\TP16\Ordner\Bilder\Sport
+C:\testdata\TP16\Ordner\Bilder
+C:\testdata\TP16\Ordner\Dokumente
+C:\testdata\TP16\Ordner\Dokumente
+C:\testdata\TP16\Ordner\Dokumente\Gutscheine
+C:\testdata\TP16\Ordner\Dokumente\Gutscheine
+C:\testdata\TP16\Ordner\Dokumente\Präsentationen
+C:\testdata\TP16\Ordner\Dokumente\Skripten
+C:\testdata\TP16\Ordner\Dokumente\Skripten
+C:\testdata\TP16\Ordner\Dokumente\Sport
+C:\testdata\TP16\Ordner\Dokumente\Sport
+C:\testdata\TP16\Ordner\Dokumente
