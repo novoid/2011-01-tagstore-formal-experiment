@@ -15,7 +15,7 @@
 
 #+NAME: list_of_all_folders_without_paths-lengths
 #+BEGIN_SRC sh :exports both 
-sort -n folders_without_path_-_lengths.csv
+sort -n TP_artifacts/folders_without_path_-_lengths.csv
 #+END_SRC
 
 #+RESULTS: list_of_all_folders_without_paths-lengths
@@ -242,7 +242,7 @@ sort -n folders_without_path_-_lengths.csv
 
 #+NAME: unique-folders-per-TP
 #+BEGIN_SRC sh :exports both
-sort -n folders_number_of_unique_per_TP.csv
+sort -n TP_artifacts/folders_number_of_unique_per_TP.csv
 #+END_SRC
 
 #+RESULTS: unique-folders-per-TP
@@ -271,7 +271,7 @@ sort -n folders_number_of_unique_per_TP.csv
 #+NAME: all_folders_-_average_length
 #+BEGIN_SRC sh
 awk '{ total += $1; count++ } END { print total/count }' \
-    < folders_without_path_-_lengths.csv
+    < TP_artifacts/folders_without_path_-_lengths.csv
 #+END_SRC
 
 #+RESULTS: all_folders_-_average_length
@@ -306,7 +306,7 @@ The result boxplot is written to:
 
 #+NAME: all_tags_-_lengths
 #+BEGIN_SRC sh :exports both
-sort -n tags_concated_-_raw_tags_single_unique_-_lengths.csv
+sort -n TP_artifacts/tags_concated_-_raw_tags_single_unique_-_lengths.csv
 #+END_SRC
 
 #+RESULTS: all_tags_-_lengths
@@ -1235,7 +1235,7 @@ sort -n tags_concated_-_raw_tags_single_unique_-_lengths.csv
 
 #+NAME: unique-tags-per-TP
 #+BEGIN_SRC sh :exports both
-sort -n tags_number_of_unique_per_TP.csv
+sort -n TP_artifacts/tags_number_of_unique_per_TP.csv
 #+END_SRC
 
 #+RESULTS: unique-tags-per-TP
@@ -1264,7 +1264,7 @@ sort -n tags_number_of_unique_per_TP.csv
 #+NAME: all_tags_-_average_length
 #+BEGIN_SRC sh
 awk '{ total += $1; count++ } END { print total/count }' \
-    < tags_concated_-_raw_tags_single_unique_-_lengths.csv
+    < TP_artifacts/tags_concated_-_raw_tags_single_unique_-_lengths.csv
 #+END_SRC
 
 #+RESULTS: all_tags_-_average_length
