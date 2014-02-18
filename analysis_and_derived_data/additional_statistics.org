@@ -8,10 +8,9 @@
  generation of boxplots has been moved to "generate_boxplots.sh" and
  "generate_boxplots.R"!
 
+* Get data
 
-* Folders
-
-** Get data
+** Folders
 
 #+NAME: list_of_all_folders_without_paths-lengths
 #+BEGIN_SRC sh :exports both 
@@ -266,43 +265,8 @@ sort -n TP_artifacts/folders_number_of_unique_per_TP.csv
 | 31 |
 
 
-** Average folder length
 
-#+NAME: all_folders_-_average_length
-#+BEGIN_SRC sh
-awk '{ total += $1; count++ } END { print total/count }' \
-    < TP_artifacts/folders_without_path_-_lengths.csv
-#+END_SRC
-
-#+RESULTS: all_folders_-_average_length
-: 9.14932
-
-
-** Boxplot
-
-#+NAME: boxplot-data
-#+BEGIN_SRC R :var data=list_of_all_folders_without_paths-lengths :exports code :results none
-pdf('OPT_folder_length_boxplot.pdf')
-boxplot(data, 
-    names=c("folder length FE1"), 
-    xlab="Formal Experiment 1", 
-    ylab="number of characters in folders", 
-    pars = list(boxwex = 0.3, staplewex = 0.5, 
-    boxfill="lightblue"))
-#+END_SRC
-
-#+RESULTS: boxplot-data
-
-*** result boxplot
-
-The result boxplot is written to:
-
-[[file:OPT_folder_length_boxplot.pdf]]
-
-
-* Tags
-
-** Get data
+** tagstore
 
 #+NAME: all_tags_-_lengths
 #+BEGIN_SRC sh :exports both
@@ -1259,6 +1223,94 @@ sort -n TP_artifacts/tags_number_of_unique_per_TP.csv
 | 105 |
 
 
+** Filing
+
+copied from spreadsheet:
+#+TBLNAME: fe1-filing-folders-tagstore
+| folders | tagstore |
+|---------+----------|
+|     472 |      701 |
+|     299 |      211 |
+|     731 |      515 |
+|     325 |      347 |
+|     275 |      357 |
+|     372 |      867 |
+|     846 |      975 |
+|     508 |      367 |
+|     545 |      587 |
+|     365 |      320 |
+|     455 |      675 |
+|     393 |      538 |
+|     493 |      363 |
+|     427 |      398 |
+|     394 |      336 |
+|     400 |      998 |
+|     373 |      667 |
+
+
+** Re-finding
+
+copied from spreadsheet:
+#+TBLNAME: fe1-refinding-folders-tagstore
+| folders | tagstore |
+|---------+----------|
+|    19.1 |       18 |
+|    16.9 |     19.5 |
+|    24.1 |     25.9 |
+|    21.2 |     32.9 |
+|    27.6 |     21.9 |
+|    39.1 |     39.8 |
+|    27.1 |     21.2 |
+|      32 |     28.8 |
+|    22.7 |   20.625 |
+|    13.6 |     14.8 |
+|      31 |     24.9 |
+|    23.3 |     23.6 |
+|    28.4 |       36 |
+|    27.7 |    26.75 |
+|    22.6 |     16.6 |
+|    17.3 |     34.4 |
+|    32.1 |     36.8 |
+
+
+* Folders
+
+** Average folder length
+
+#+NAME: all_folders_-_average_length
+#+BEGIN_SRC sh
+awk '{ total += $1; count++ } END { print total/count }' \
+    < TP_artifacts/folders_without_path_-_lengths.csv
+#+END_SRC
+
+#+RESULTS: all_folders_-_average_length
+: 9.14932
+
+
+** Boxplot
+
+#+NAME: boxplot-data
+#+BEGIN_SRC R :var data=list_of_all_folders_without_paths-lengths :exports code :results none
+pdf('OPT_folder_length_boxplot.pdf')
+boxplot(data, 
+    names=c("folder length FE1"), 
+    xlab="Formal Experiment 1", 
+    ylab="number of characters in folders", 
+    pars = list(boxwex = 0.3, staplewex = 0.5, 
+    boxfill="lightblue"))
+#+END_SRC
+
+#+RESULTS: boxplot-data
+
+*** result boxplot
+
+The result boxplot is written to:
+
+[[file:OPT_folder_length_boxplot.pdf]]
+
+
+* Tagstore
+
 ** Average tag length
 
 #+NAME: all_tags_-_average_length
@@ -1291,6 +1343,7 @@ boxplot(data,
 The result boxplot is written to:
 
 [[file:OPT_tag_length_boxplot.pdf]]
+
 
 * combined tag and folder name length boxplot
 
@@ -1334,6 +1387,57 @@ boxplot(list(folders$V1, tags$V1),
 The result boxplot is written to:
 
 [[file:OPT_folder_and_tag_uniques_boxplot.pdf]]
+
+
+
+
+* combined boxplot filing times
+
+#+NAME: boxplot-filing-times
+#+BEGIN_SRC R :var data=fe1-filing-folders-tagstore  :exports code :results none
+pdf('FE1_filing_times_boxplot.pdf')
+
+boxplot(list(data$folders, data$tagstore), 
+    names=c("folders", "tagstore"), 
+    #xlab="Formal Experiment 1", 
+    ylab="filing times", 
+    pars = list(boxwex = 0.3, staplewex = 0.5, 
+    boxfill="lightblue"))
+#+END_SRC
+
+#+RESULTS: boxplot-filing-times
+
+** result boxplot
+
+The result boxplot is written to:
+
+[[file:~/ist/tagstore/tshci/2011-04-tagstore-formal-experiment/analysis_and_derived_data][FE1_filing_times_boxplot.pdf]]
+
+
+* combined boxplot refinding times
+
+#+NAME: boxplot-refinding-times
+#+BEGIN_SRC R :var data=fe1-refinding-folders-tagstore  :exports code :results none
+pdf('FE1_refinding_times_boxplot.pdf')
+
+boxplot(list(data$folders, data$tagstore), 
+    names=c("folders", "tagstore"), 
+    #xlab="Formal Experiment 1", 
+    ylab="re-finding times", 
+    pars = list(boxwex = 0.3, staplewex = 0.5, 
+    boxfill="lightblue"))
+#+END_SRC
+
+#+RESULTS: boxplot-refinding-times
+
+
+** result boxplot
+
+The result boxplot is written to:
+
+[[file:~/ist/tagstore/tshci/2011-04-tagstore-formal-experiment/analysis_and_derived_data][FE1_refinding_times_boxplot.pdf]]
+
+
 
 
 
