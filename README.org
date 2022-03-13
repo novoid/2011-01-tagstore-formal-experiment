@@ -29,7 +29,7 @@ clear some questions in the field of personal information management
 (PIM), information re-finding, and information architecture. This
 repository holds relevant data to verify or extend this experiment.
 
-For this purpose, the testing framework tagstore ([[http://tagstore.org]])
+For this purpose, the testing framework tagstore ([[https://karl-voit.at/tagstore/]])
 was used to *compare* storing files (images, graphics and documents)
 within the *folder hierarchy* using Microsoft Windows Explorer *and
 tagstore*.
@@ -63,7 +63,7 @@ things such as evaluation scripts are in *English* though.
 
 * White Papers
 
-Several related white papers are linked [[http://tagstore.org/en/papers.shtml][on the tagstore homepage]].
+Several related white papers are linked [[https://karl-voit.at/tagstore/en/papers.shtml][on the tagstore homepage]].
 
 * License
 
